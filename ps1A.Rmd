@@ -1,6 +1,6 @@
 ---
 title: 'STAT 231: Problem Set 1A'
-author: "YOUR NAME HERE"
+author: Brandon Kwon
 date: "due by 5 PM on Monday, February 22"
 output: pdf_document
 ---
@@ -9,7 +9,7 @@ In order to most effectively digest the textbook chapter readings -- and the  ne
 
 "\textbf{Pro Tip}: If you want to learn how to use a particular command, we highly recommend running the example code on your own" 
 
-A more thorough reading and light practice of the textbook chapter prior to class allows us to dive quicker and deeper into the topics and commands during class.  Furthermore, learning a programming lanugage is like learning any other language -- practice, practice, practice is the key to fluency.  By having two assignments each week, I hope to encourage practice throughout the week.  A little coding each day will take you a long way!
+A more thorough reading and light practice of the textbook chapter prior to class allows us to dive quicker and deeper into the topics and commands during class.  Furthermore, learning a programming language is like learning any other language -- practice, practice, practice is the key to fluency.  By having two assignments each week, I hope to encourage practice throughout the week.  A little coding each day will take you a long way!
 
 *Series A assignments are intended to be completed individually.*  While most of our work in this class will be collaborative, it is important each individual completes the active readings.  The problems should be straightforward based on the textbook readings, but if you have any questions, feel free to ask me!
 
@@ -30,7 +30,7 @@ Steps to proceed:
 ```{r, setup, include=FALSE}
 # Load packages here 
 library(mdsr)   
-
+library(mosaic)
 knitr::opts_chunk$set(
   tidy=FALSE,     # display code as typed
   size="small",   # slightly smaller font for code
@@ -47,17 +47,21 @@ Figure 3.3 in Section 3.1.1 shows a scatterplot that uses both location and labe
 data(CIACountries)
 
 # define the plot object
-g <- 
+g <- ggplot(data = CIACountries, aes(y = gdp, x = educ))
   
 # print the plot 
-g
+g + geom_text(aes(label = country, color = net_users), size = 3)
 ```
 
 ### b.
 Now, update the plot with more informative labels.  Label the x-axis "% of GDP spent on education" and the y-axis "Gross Domestic Product (GDP)".  Hint: see Section 3.2.2 for an example of one way to label the axes.
 
 ```{r}
-
+# define the plot object
+g <- ggplot(data = CIACountries, aes(y = gdp, x = educ))
+  
+# print the plot 
+g + geom_text(aes(label = country, color = net_users), size = 3) + xlab("% of GDP spent on education") + ylab("Gross Domestic Product (GDP)")
 
 ```
 
@@ -65,6 +69,11 @@ Now, update the plot with more informative labels.  Label the x-axis "% of GDP s
 Next, move the legend so that it's located on the top of the plot as opposed to the right of the plot.  Hint: see Section 3.1.4 for an example on how to change the legend position.
 
 ```{r}
+# define the plot object
+g <- ggplot(data = CIACountries, aes(y = gdp, x = educ))
+  
+# print the plot 
+g + geom_text(aes(label = country, color = net_users), size = 3) + xlab("% of GDP spent on education") + ylab("Gross Domestic Product (GDP)") + theme(legend.position = "top")
 
 ```
 
@@ -72,7 +81,11 @@ Next, move the legend so that it's located on the top of the plot as opposed to 
 Lastly, Section 3.1.2 discusses *scale*, and demonstrates how to display GDP on a logarithmic scale to better discern differences in GDP.  Update the figure so GDP is on a log10 scale.  
 
 ```{r}
-
+# define the plot object
+g <- ggplot(data = CIACountries, aes(y = gdp, x = educ))
+  
+# print the plot 
+g + geom_text(aes(label = country, color = net_users), size = 3) + xlab("% of GDP spent on education") + ylab("Gross Domestic Product (GDP)") + theme(legend.position = "top") + coord_trans(y = "log10")
 ```
 
 
@@ -82,7 +95,7 @@ Lastly, Section 3.1.2 discusses *scale*, and demonstrates how to display GDP on 
 ### a.
 Consider Figure 3.7 in Section 3.2.1.  What does `reorder(drg, mean_charge)` do?  Recreate the plot, but use `x = drg` instead of `x = reorder(drg, mean_charge)`.  What happens?
 
-> ANSWER: 
+> ANSWER: The "reorder(drg, mean_charge)" function places the medical procedures (DRG) in a linear order that goes from the cheapest statewide average charges to the most expensive statewide average charges for better aesthetic appeal and easier visual analysis.  It also demonstrates a key appeal in terms of viewing data: direction.  Due to this function, the viewer can now see the relationship between type of medical procedure and statewide average charges more clearly.
 
 ```{r}
 data(MedicareCharges)
@@ -91,11 +104,14 @@ ChargesNJ <- MedicareCharges %>%
   filter(stateProvider == "NJ")
 
 # create the plot object
-p <- 
+p <- ggplot(data = ChargesNJ, aes(x = drg, y = mean_charge))
   
   
 # print the plot
-p
+p + geom_col(fill = "gray") +
+  ylab("Statewide Average Charges ($)") + 
+  xlab("Medical Procedure (DRG)") +
+  theme(axis.text.x = element_text(angle = 90, hjust = 1, size = rel(0.5)))
 ```
 
 ### b.
@@ -104,7 +120,19 @@ Replace `x = drg` with `x = reorder(drg, mean_charge)`, but also remove the `the
 > ANSWER:  
 
 ```{r}
+data(MedicareCharges)
+ChargesNJ <- MedicareCharges %>% 
+  ungroup() %>%
+  filter(stateProvider == "NJ")
 
+# create the plot object
+p <- ggplot(data = ChargesNJ, aes(x = reorder(drg, mean_charge), y = mean_charge))
+  
+  
+# print the plot
+p + geom_col(fill = "gray") +
+  ylab("Statewide Average Charges ($)") + 
+  xlab("Medical Procedure (DRG)")
 ```
 
 
