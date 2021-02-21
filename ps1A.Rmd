@@ -117,7 +117,7 @@ p + geom_col(fill = "gray") +
 ### b.
 Replace `x = drg` with `x = reorder(drg, mean_charge)`, but also remove the `theme()` line.  Now what happens?  What was the purpose of the `theme()` line?  Hint: You may need to knit the document and look at the pdf to better observe what's happening.
 
-> ANSWER:  
+> ANSWER: When removing the "theme()" line, we see that that the x-axis is drastically different in terms of labelling.  The "theme()" line essentially helps the x-axis become more "viewable" by reorganizing the labels in terms of angle and size.  The "angle" of 90 suggests that each label is faced "vertically" to provide for more room between each label.  The "hjust" allows for better centering, and the "size" suggests the font size of each label to allow for more readable labels as well.  
 
 ```{r}
 data(MedicareCharges)
@@ -142,7 +142,8 @@ p + geom_col(fill = "gray") +
 As you read through (and, better yet -- code along with (not required, but useful practice!)) -- the extended example on historical baby names in section 3.3.1, write down two questions you have about any of the R code used in that example.  (Your questions could be about what a specific part of the code -- ggplot or not -- is actually doing, or a more general question about any of the commands used.)  Please be thoughtful about your questions; we will use them (anonymously) in an exercise in class this week.
 
 > ANSWER: 
-
+1) What is the exact function of "%>%"?
+2) I understand that spacing/row filling when writing code is not really an issue when it comes to compiling. However, I was wondering if there is a specific type of spacing that you or any other data scientist prefers when writing code, especially when it comes to adding aesthetic aspects including fill = "#b2d7e9," color = "white," and size = 0.1?
 ```{r}
 # to get you started following along . . .
 library(babynames)
