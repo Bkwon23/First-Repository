@@ -92,7 +92,7 @@ The default symbol for `geom_point` is, well, a point.  But you can change the s
 - You can also specify different shapes for the different countries.  Since country is a variable in our dataset, we can use the `aes` function within `geom_point` to specify different shapes for different countries.  See if you can figure out the correct syntax to do this.  Can you also figure out how to make the legend nicer? (Hint: add something to the `labs` function.)
 
 ```{r, fig.width=10}
-g + geom_point() + aes(shape = country)
+g + geom_point() + aes(shape = country, color = country)
 ```
 
 *This is a good place to pause, commit changes with the commit message "Added answer for Ex 1", and push.*
