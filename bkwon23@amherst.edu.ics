@@ -1,0 +1,1854 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:bkwon23@amherst.edu
+X-WR-TIMEZONE:America/Los_Angeles
+BEGIN:VTIMEZONE
+TZID:America/New_York
+X-LIC-LOCATION:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART:20190925T223000Z
+DTEND:20190926T000000Z
+DTSTAMP:20210304T193155Z
+ORGANIZER;CN=mlalor@amherst.edu:mailto:mlalor@amherst.edu
+UID:7fetkif5j136pgmdokatie5bm3@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=bkwon2
+ 3@amherst.edu;X-NUM-GUESTS=0:mailto:bkwon23@amherst.edu
+CREATED:20190923T184929Z
+DESCRIPTION:Thank you for your positive RSVP to this weeks New Student Dinn
+ er! To get to Mullins/Faerber within Valentine Dining Hall\, please enter t
+ hough the main foyer and the hallway to Mullins/Faerber is opposite Valenti
+ ne dining commons.&nbsp\; You will go right after the restrooms and be gree
+ ted by the New Student Programming staff.&nbsp\; There is not a dress code\
+ , but please bring your appetite!&nbsp\; <b>We ask that you mark on this in
+ vitation is you are 'going' so that we may invite other students off the wa
+ it list if you are no longer able to attend.&nbsp\;&nbsp\;</b><br><br>Thank
+  you\,&nbsp\;<br>Marie Lalor&nbsp\;
+LAST-MODIFIED:20190925T220312Z
+LOCATION:Mullins/Faerber - Valentine Dining Hall
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:New Student Dinner
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200413T162000Z
+DTEND:20200413T163000Z
+DTSTAMP:20210304T193155Z
+ORGANIZER;CN=knardone19@amherst.edu:mailto:knardone19@amherst.edu
+UID:a0kvs94f5nqt35os7gg2kb4v20@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=knardo
+ ne19@amherst.edu;X-NUM-GUESTS=0:mailto:knardone19@amherst.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=bkwon2
+ 3@amherst.edu;X-NUM-GUESTS=0:mailto:bkwon23@amherst.edu
+CREATED:20200409T202324Z
+DESCRIPTION:Event Name: 111 Check-in Meetings with Katianna\n\n\nLocation: 
+ https://amherstcollege.zoom.us/j/839247550\nYou can join this meeting from 
+ your computer\, tablet\, or smartphone.\n\nYou can also dial in using your 
+ phone.\nUS: +1 312 626 6799\, +1 646 558 8656\, +1 346 248 7799\, +1 669 90
+ 0 6833\, +1 253 215 8782\, +1 301 715 8592\nMeeting ID: 839-247-550\n\nNeed
+  to make changes to this event?\nCancel: https://calendly.com/cancellations
+ /HAMQQZ3P6JENZURI\nReschedule: https://calendly.com/reschedulings/HAMQQZ3P6
+ JENZURI\n\nPowered by Calendly.com\n
+LAST-MODIFIED:20200409T202325Z
+LOCATION:https://amherstcollege.zoom.us/j/839247550
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Brandon Kwon and Katianna Nardone
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200429T200000Z
+DTEND:20200429T210000Z
+DTSTAMP:20210304T193155Z
+ORGANIZER;CN=Jeeyon Jeong:mailto:jjeong@amherst.edu
+UID:6s75tgnfho955rnmbv8r6rtdmj@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=mj
+ ohnson22@amherst.edu;X-NUM-GUESTS=0:mailto:mjohnson22@amherst.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=hg
+ oldberg22@amherst.edu;X-NUM-GUESTS=0:mailto:hgoldberg22@amherst.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=sv
+ enkat21@amherst.edu;X-NUM-GUESTS=0:mailto:svenkat21@amherst.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ey
+ park19@amherst.edu;X-NUM-GUESTS=0:mailto:eypark19@amherst.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=mc
+ amara21@amherst.edu;X-NUM-GUESTS=0:mailto:mcamara21@amherst.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=seopar
+ k22@amherst.edu;X-NUM-GUESTS=0:mailto:seopark22@amherst.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=bk
+ won23@amherst.edu;X-NUM-GUESTS=0:mailto:bkwon23@amherst.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=gh
+ park22@amherst.edu;X-NUM-GUESTS=0:mailto:ghpark22@amherst.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=kt
+ suyuki18@amherst.edu;X-NUM-GUESTS=0:mailto:ktsuyuki18@amherst.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Jeeyon
+  Jeong;X-NUM-GUESTS=0:mailto:jjeong@amherst.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=cd
+ aveiga20@amherst.edu;X-NUM-GUESTS=0:mailto:cdaveiga20@amherst.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=lk
+ im19@amherst.edu;X-NUM-GUESTS=0:mailto:lkim19@amherst.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=jg
+ allegosiraheta20@amherst.edu;X-NUM-GUESTS=0:mailto:jgallegosiraheta20@amher
+ st.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ke
+ zheng22@amherst.edu;X-NUM-GUESTS=0:mailto:kezheng22@amherst.edu
+CREATED:20200426T012300Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the descriptio
+ n.\n\nJoin Zoom Meeting\nhttps://amherstcollege.zoom.us/j/91815672002?pwd=Q
+ mFUbEQyUkR1b2ZKazcrbWpmZXVHdz09 (ID: 91815672002\, password: e70G98g1)\n\nJ
+ oin by phone\n(US) +1 646-558-8656\n\nJoin using SIP\n91815672002@zoomcrc.c
+ om (passcode: 606227)\n\nJoining instructions: https://www.google.com/url?q
+ =https://applications.zoom.us/addon/invitation/detail?meetingUuid%3Df7N3FPS
+ ySSK%252BpT6T%252F4ftCQ%253D%253D%26signature%3D7e26fb6835c1952d2c71d9e7661
+ 418e76e0e32b14c0a1d87075bedf1c1fa114f&sa=D&usg=AOvVaw3fB2EqUH5oHKc78mv-QsAg
+ \n\nPassword: e70G98g1\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20200617T195524Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Liz's Thesis Practice Talk
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200513T200000Z
+DTEND:20200513T210000Z
+DTSTAMP:20210304T193155Z
+ORGANIZER;CN=Jeeyon Jeong:mailto:jjeong@amherst.edu
+UID:4ahb6j859d2vvphmp9lcbs4ob0@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=mj
+ ohnson22@amherst.edu;X-NUM-GUESTS=0:mailto:mjohnson22@amherst.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=hg
+ oldberg22@amherst.edu;X-NUM-GUESTS=0:mailto:hgoldberg22@amherst.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=sv
+ enkat21@amherst.edu;X-NUM-GUESTS=0:mailto:svenkat21@amherst.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ep
+ arsons20@amherst.edu;X-NUM-GUESTS=0:mailto:eparsons20@amherst.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=mc
+ amara21@amherst.edu;X-NUM-GUESTS=0:mailto:mcamara21@amherst.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=seopar
+ k22@amherst.edu;X-NUM-GUESTS=0:mailto:seopark22@amherst.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=bk
+ won23@amherst.edu;X-NUM-GUESTS=0:mailto:bkwon23@amherst.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=gh
+ park22@amherst.edu;X-NUM-GUESTS=0:mailto:ghpark22@amherst.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=kt
+ suyuki18@amherst.edu;X-NUM-GUESTS=0:mailto:ktsuyuki18@amherst.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=gd
+ avenport21@amherst.edu;X-NUM-GUESTS=0:mailto:gdavenport21@amherst.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Jeeyon
+  Jeong;X-NUM-GUESTS=0:mailto:jjeong@amherst.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=jgalle
+ gosiraheta20@amherst.edu;X-NUM-GUESTS=0:mailto:jgallegosiraheta20@amherst.e
+ du
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=lk
+ im19@amherst.edu;X-NUM-GUESTS=0:mailto:lkim19@amherst.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ke
+ zheng22@amherst.edu;X-NUM-GUESTS=0:mailto:kezheng22@amherst.edu
+CREATED:20200509T055306Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the descriptio
+ n.\n\nJoin Zoom Meeting\nhttps://amherstcollege.zoom.us/j/99465806258?pwd=Q
+ lZoeHY4WHRzNWJTUmozc0EyNzFPUT09 (ID: 99465806258\, password: QO95Wjr7ND)\n\
+ nJoin by phone\n(US) +1 312-626-6799\n\nJoin using SIP\n99465806258@zoomcrc
+ .com (passcode: 616650)\n\nJoining instructions: https://www.google.com/url
+ ?q=https://applications.zoom.us/addon/invitation/detail?meetingUuid%3Dosew6
+ %252FksQE%252B%252BXo8f4Q%252F4cQ%253D%253D%26signature%3Dc8201207d19d57e9f
+ b44a1554f149c4baa5c692bf0e5101cbbc9657f7d923347&sa=D&usg=AOvVaw1xim8NaCkFUZ
+ aRsOnYXasD\n\nPassword: QO95Wjr7ND\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20200617T195528Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Jenny's Thesis Practice Talk
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200629T163000Z
+DTEND:20200629T170000Z
+DTSTAMP:20210304T193155Z
+ORGANIZER;CN=Jeeyon Jeong:mailto:jjeong@amherst.edu
+UID:6qfps6gpco32esvt0mqn9kpm5o@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Jeeyon
+  Jeong;X-NUM-GUESTS=0:mailto:jjeong@amherst.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=bkwon2
+ 3@amherst.edu;X-NUM-GUESTS=0:mailto:bkwon23@amherst.edu
+CREATED:20200619T200508Z
+DESCRIPTION:Event Name: Lab Check-Ins\n\nOne on one check-in meetings\n\nLo
+ cation: Zoom link: https://amherstcollege.zoom.us/my/jjeong\n\nNeed to make
+  changes to this event?\nCancel: https://calendly.com/cancellations/HHK44E6
+ EZR4VJY4B\nReschedule: https://calendly.com/reschedulings/HHK44E6EZR4VJY4B\
+ n\nPowered by Calendly.com\n
+LAST-MODIFIED:20200619T200509Z
+LOCATION:Zoom link: https://amherstcollege.zoom.us/my/jjeong
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Brandon Kwon and Jeeyon Jeong
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200721T200000Z
+DTEND:20200721T203000Z
+DTSTAMP:20210304T193155Z
+ORGANIZER;CN=casanderson@amherst.edu:mailto:casanderson@amherst.edu
+UID:k5m3qnkksbv69m29mvvonboi54@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=casand
+ erson@amherst.edu;X-NUM-GUESTS=0:mailto:casanderson@amherst.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=bk
+ won23@amherst.edu;X-NUM-GUESTS=0:mailto:bkwon23@amherst.edu
+CREATED:20200721T180829Z
+DESCRIPTION:Catherine Sanderson is inviting you to a scheduled Zoom meeting
+ .\n\nJoin Zoom Meeting\nhttps://amherstcollege.zoom.us/j/97996424884\n\nMee
+ ting ID: 979 9642 4884\nOne tap mobile\n+16465588656\,\,97996424884# US (Ne
+ w York)\n+13017158592\,\,97996424884# US (Germantown)\n\nDial by your locat
+ ion\n        +1 646 558 8656 US (New York)\n        +1 301 715 8592 US (Ger
+ mantown)\n        +1 312 626 6799 US (Chicago)\n        +1 669 900 6833 US 
+ (San Jose)\n        +1 253 215 8782 US (Tacoma)\n        +1 346 248 7799 US
+  (Houston)\nMeeting ID: 979 9642 4884\nFind your local number: https://amhe
+ rstcollege.zoom.us/u/acLJp3d7HG\n\nJoin by SIP\n97996424884@zoomcrc.com\n\n
+ Join by H.323\n162.255.37.11 (US West)\n162.255.36.11 (US East)\n115.114.13
+ 1.7 (India Mumbai)\n115.114.115.7 (India Hyderabad)\n213.19.144.110 (EMEA)\
+ n103.122.166.55 (Australia)\n209.9.211.110 (Hong Kong SAR)\n64.211.144.160 
+ (Brazil)\n69.174.57.160 (Canada)\n207.226.132.110 (Japan)\nMeeting ID: 979 
+ 9642 4884\n\n
+LAST-MODIFIED:20200721T190224Z
+LOCATION:https://amherstcollege.zoom.us/j/97996424884
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Brandon Meeting
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200819T020000Z
+DTEND:20200819T023000Z
+DTSTAMP:20210304T193155Z
+ORGANIZER;CN=nick@andrewrodriguezforassembly.com:mailto:nick@andrewrodrigue
+ zforassembly.com
+UID:e13hqt7c35rrngg3tph7ftv1nk@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=nick@a
+ ndrewrodriguezforassembly.com;X-NUM-GUESTS=0:mailto:nick@andrewrodriguezfor
+ assembly.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=bkwon2
+ 3@amherst.edu;X-NUM-GUESTS=0:mailto:bkwon23@amherst.edu
+CREATED:20200814T074725Z
+DESCRIPTION:Created with https://doodle.com/dashboard<br/>-----------------
+ --------------<br/>Video Conferencing:<br/><a href="https://us04web.zoom.us
+ /j/79798822715?pwd=NTVhSkViMW5RbE9YbFFnWisxRlhrdz09">https://us04web.zoom.u
+ s/j/79798822715?pwd=NTVhSkViMW5RbE9YbFFnWisxRlhrdz09</a><br/><br/>
+LAST-MODIFIED:20200814T074725Z
+LOCATION:https://us04web.zoom.us/j/79798822715?pwd=NTVhSkViMW5RbE9YbFFnWisx
+ Rlhrdz09
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:1:1 meeting
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200824T210000Z
+DTEND:20200824T213000Z
+DTSTAMP:20210304T193155Z
+ORGANIZER;CN="Bergman, Richard, PhD":mailto:richard.bergman@cshs.org
+UID:040000008200E00074C5B7101A82E008000000001046CFA60277D601000000000000000
+ 010000000E2683D53A18FD24DBE3221ADA0D5554E
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=bkwon2
+ 3@amherst.edu;X-NUM-GUESTS=0:mailto:bkwon23@amherst.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN="A
+ der, Marilyn, PhD";X-NUM-GUESTS=0:mailto:marilyn.ader@cshs.org
+CREATED:20200821T171937Z
+DESCRIPTION:\n_____________________________________________________________
+ ___________________\nJoin Microsoft Teams Meeting<https://teams.microsoft.c
+ om/l/meetup-join/19%3ameeting_MTc5ZTc5MGMtMDRjNi00NDJiLTliOGEtNDRhOTIzNmRjM
+ mVm%40thread.v2/0?context=%7b%22Tid%22%3a%229b53f2ff-e753-4309-b57c-a086c2b
+ 04b9a%22%2c%22Oid%22%3a%22ab7460f4-33c6-40f3-8cde-2dc511168a09%22%7d>\nLear
+ n more about Teams<https://aka.ms/JoinTeamsMeeting> | Meeting options<https
+ ://teams.microsoft.com/meetingOptions/?organizerId=ab7460f4-33c6-40f3-8cde-
+ 2dc511168a09&tenantId=9b53f2ff-e753-4309-b57c-a086c2b04b9a&threadId=19_meet
+ ing_MTc5ZTc5MGMtMDRjNi00NDJiLTliOGEtNDRhOTIzNmRjMmVm@thread.v2&messageId=0&
+ language=en-US>\n__________________________________________________________
+ ______________________\n\n\n\nIMPORTANT WARNING: This message is intended f
+ or the use of the person or entity to which it is addressed and may contain
+  information that is privileged and confidential\, the disclosure of which 
+ is governed by applicable law. If the reader of this message is not the int
+ ended recipient\, or the employee or agent responsible for delivering it to
+  the intended recipient\, you are hereby notified that any dissemination\, 
+ distribution or copying of this information is strictly prohibited. Thank y
+ ou for your cooperation.\n
+LAST-MODIFIED:20200821T233455Z
+LOCATION:Microsoft Teams Meeting
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Virtual meeting with Brandon Kwon
+TRANSP:OPAQUE
+ATTACH;FILENAME=Resume.pdf:?view=att&th=17412089a8ca6ae0&attid=0.1&disp=att
+ d&zw
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-OWNERAPPTID:-1854568476
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-LOCATIONS:[ { "DisplayName" : "Microsoft Teams Meeting"\, "Loca
+ tionAnnotation" : ""\, "LocationSource" : 0\, "Unresolved" : false\, "Locat
+ ionUri" : "" } ]
+X-MICROSOFT-ONLINEMEETINGCONFLINK:conf:sip:Richard.Bergman@cshs.org\;gruu\;
+ opaque=app:conf:focus:id:teams:2:0!19:meeting_MTc5ZTc5MGMtMDRjNi00NDJiLTliO
+ GEtNDRhOTIzNmRjMmVm-thread.v2!ab7460f433c640f38cde2dc511168a09!9b53f2ffe753
+ 4309b57ca086c2b04b9a
+X-MICROSOFT-SCHEDULINGSERVICEUPDATEURL:https://scheduler.teams.microsoft.co
+ m/teams/9b53f2ff-e753-4309-b57c-a086c2b04b9a/ab7460f4-33c6-40f3-8cde-2dc511
+ 168a09/19_meeting_MTc5ZTc5MGMtMDRjNi00NDJiLTliOGEtNDRhOTIzNmRjMmVm@thread.v
+ 2/0
+X-MICROSOFT-SKYPETEAMSMEETINGURL:https://teams.microsoft.com/l/meetup-join/
+ 19%3ameeting_MTc5ZTc5MGMtMDRjNi00NDJiLTliOGEtNDRhOTIzNmRjMmVm%40thread.v2/0
+ ?context=%7b%22Tid%22%3a%229b53f2ff-e753-4309-b57c-a086c2b04b9a%22%2c%22Oid
+ %22%3a%22ab7460f4-33c6-40f3-8cde-2dc511168a09%22%7d
+X-MICROSOFT-SKYPETEAMSPROPERTIES:{"cid":"19:meeting_MTc5ZTc5MGMtMDRjNi00NDJ
+ iLTliOGEtNDRhOTIzNmRjMmVm@thread.v2"\,"private":true\,"type":0\,"mid":0\,"r
+ id":0\,"uid":null}
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200828T213000Z
+DTEND:20200828T220000Z
+DTSTAMP:20210304T193155Z
+UID:7lhbsr6ftqqj3934l6gh9pb8j4@google.com
+CREATED:20200828T175758Z
+DESCRIPTION:Brandon Kwon is inviting you to a scheduled Zoom meeting.\n\nJo
+ in Zoom Meeting\nhttps://amherstcollege.zoom.us/j/97896982540?pwd=ZkxGcmQ0V
+ Fhubi80KzJaSkRrb0tqUT09\n\nMeeting ID: 978 9698 2540\nPasscode: 959400\nOne
+  tap mobile\n+16699006833\,\,97896982540#\,\,\,\,\,\,0#\,\,959400# US (San 
+ Jose)\n+12532158782\,\,97896982540#\,\,\,\,\,\,0#\,\,959400# US (Tacoma)\n\
+ nDial by your location\n        +1 669 900 6833 US (San Jose)\n        +1 2
+ 53 215 8782 US (Tacoma)\n        +1 346 248 7799 US (Houston)\n        +1 6
+ 46 558 8656 US (New York)\n        +1 301 715 8592 US (Germantown)\n       
+  +1 312 626 6799 US (Chicago)\nMeeting ID: 978 9698 2540\nPasscode: 959400\
+ nFind your local number: https://amherstcollege.zoom.us/u/adMLRlupZL\n\n
+LAST-MODIFIED:20200828T175758Z
+LOCATION:https://amherstcollege.zoom.us/j/97896982540?pwd=ZkxGcmQ0VFhubi80K
+ zJaSkRrb0tqUT09
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Brandon Kwon's Zoom Meeting
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200903T223000Z
+DTEND:20200904T003000Z
+DTSTAMP:20210304T193155Z
+ORGANIZER;CN=edo21@amherst.edu:mailto:edo21@amherst.edu
+UID:ur7g8knmdo38kjbd58rfous3l0@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=bk
+ won23@amherst.edu;X-NUM-GUESTS=0:mailto:bkwon23@amherst.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=vw
+ ei22@amherst.edu;X-NUM-GUESTS=0:mailto:vwei22@amherst.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=se
+ ullee21@amherst.edu;X-NUM-GUESTS=0:mailto:seullee21@amherst.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=jj
+ eon22@amherst.edu;X-NUM-GUESTS=0:mailto:jjeon22@amherst.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=jo
+ luwole22@amherst.edu;X-NUM-GUESTS=0:mailto:joluwole22@amherst.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=co
+ shipitan22@amherst.edu;X-NUM-GUESTS=0:mailto:coshipitan22@amherst.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=iagba2
+ 3@amherst.edu;X-NUM-GUESTS=0:mailto:iagba23@amherst.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=amire2
+ 2@amherst.edu;X-NUM-GUESTS=0:mailto:amire22@amherst.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=edo21@
+ amherst.edu;X-NUM-GUESTS=0:mailto:edo21@amherst.edu
+CREATED:20200902T155915Z
+DESCRIPTION:Elizabeth Do is inviting you to a scheduled Zoom meeting.\n\nJo
+ in Zoom Meeting\nhttps://amherstcollege.zoom.us/j/97829182761?pwd=OXNlblpDa
+ WhnZkhTRUtEL1BZSU9BUT09\n\nMeeting ID: 978 2918 2761\nPasscode: 273297\nOne
+  tap mobile\n+13017158592\,\,97829182761# US (Germantown)\n+13126266799\,\,
+ 97829182761# US (Chicago)\n\nDial by your location\n        +1 301 715 8592
+  US (Germantown)\n        +1 312 626 6799 US (Chicago)\n        +1 646 558 
+ 8656 US (New York)\n        +1 253 215 8782 US (Tacoma)\n        +1 346 248
+  7799 US (Houston)\n        +1 669 900 6833 US (San Jose)\nMeeting ID: 978 
+ 2918 2761\nFind your local number: https://amherstcollege.zoom.us/u/aeEIW7S
+ xal\n\nJoin by SIP\n97829182761@zoomcrc.com\n\nJoin by H.323\n162.255.37.11
+  (US West)\n162.255.36.11 (US East)\n115.114.131.7 (India Mumbai)\n115.114.
+ 115.7 (India Hyderabad)\n213.19.144.110 (Amsterdam Netherlands)\n213.244.14
+ 0.110 (Germany)\n103.122.166.55 (Australia)\n149.137.40.110 (Singapore)\n64
+ .211.144.160 (Brazil)\n69.174.57.160 (Canada)\n207.226.132.110 (Japan)\nMee
+ ting ID: 978 2918 2761\nPasscode: 273297\n\n
+LAST-MODIFIED:20200902T175812Z
+LOCATION:https://amherstcollege.zoom.us/j/97829182761?pwd=OXNlblpDaWhnZkhTR
+ UtEL1BZSU9BUT09
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:CDHPS Intro Meeting
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200904T000000Z
+DTEND:20200904T003000Z
+DTSTAMP:20210304T193155Z
+ORGANIZER;CN=edo21@amherst.edu:mailto:edo21@amherst.edu
+UID:jnoqbab462psvd0sdh2hraho6o@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=bk
+ won23@amherst.edu;X-NUM-GUESTS=0:mailto:bkwon23@amherst.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=vw
+ ei22@amherst.edu;X-NUM-GUESTS=0:mailto:vwei22@amherst.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=jj
+ eon22@amherst.edu;X-NUM-GUESTS=0:mailto:jjeon22@amherst.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=se
+ ullee21@amherst.edu;X-NUM-GUESTS=0:mailto:seullee21@amherst.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=jo
+ luwole22@amherst.edu;X-NUM-GUESTS=0:mailto:joluwole22@amherst.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=co
+ shipitan22@amherst.edu;X-NUM-GUESTS=0:mailto:coshipitan22@amherst.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ia
+ gba23@amherst.edu;X-NUM-GUESTS=0:mailto:iagba23@amherst.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=am
+ ire22@amherst.edu;X-NUM-GUESTS=0:mailto:amire22@amherst.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=edo21@
+ amherst.edu;X-NUM-GUESTS=0:mailto:edo21@amherst.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=nj
+ orden22@amherst.edu;X-NUM-GUESTS=0:mailto:njorden22@amherst.edu
+CREATED:20200903T040313Z
+DESCRIPTION:Elizabeth Do is inviting you to a scheduled Zoom meeting.\n\nJo
+ in Zoom Meeting\nhttps://amherstcollege.zoom.us/j/97231461358?pwd=eVFhWjlOR
+ zJmN0N0UXJUanB0bFRFUT09\n\nMeeting ID: 972 3146 1358\nPasscode: 486771\nOne
+  tap mobile\n+16465588656\,\,97231461358# US (New York)\n+13017158592\,\,97
+ 231461358# US (Germantown)\n\nDial by your location\n        +1 646 558 865
+ 6 US (New York)\n        +1 301 715 8592 US (Germantown)\n        +1 312 62
+ 6 6799 US (Chicago)\n        +1 669 900 6833 US (San Jose)\n        +1 253 
+ 215 8782 US (Tacoma)\n        +1 346 248 7799 US (Houston)\nMeeting ID: 972
+  3146 1358\nFind your local number: https://amherstcollege.zoom.us/u/aWub6X
+ LOx\n\nJoin by SIP\n97231461358@zoomcrc.com\n\nJoin by H.323\n162.255.37.11
+  (US West)\n162.255.36.11 (US East)\n115.114.131.7 (India Mumbai)\n115.114.
+ 115.7 (India Hyderabad)\n213.19.144.110 (Amsterdam Netherlands)\n213.244.14
+ 0.110 (Germany)\n103.122.166.55 (Australia)\n149.137.40.110 (Singapore)\n64
+ .211.144.160 (Brazil)\n69.174.57.160 (Canada)\n207.226.132.110 (Japan)\nMee
+ ting ID: 972 3146 1358\nPasscode: 486771\n\n
+LAST-MODIFIED:20200903T165300Z
+LOCATION:https://amherstcollege.zoom.us/j/97231461358?pwd=eVFhWjlORzJmN0N0U
+ XJUanB0bFRFUT09
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:CDHPS E-Board
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200917T190000Z
+DTEND:20200917T200000Z
+DTSTAMP:20210304T193155Z
+UID:to6av1l6sd7qkmfq4harmrnjdo@google.com
+CREATED:20200917T084905Z
+DESCRIPTION:Brandon Kwon is inviting you to a scheduled Zoom meeting.\n\nJo
+ in Zoom Meeting\nhttps://amherstcollege.zoom.us/j/91539936368?pwd=Tm1iN0I1K
+ 1JvazlwWFNoTFVXOVp5QT09\n\nMeeting ID: 915 3993 6368\nPasscode: 446153\nOne
+  tap mobile\n+16699006833\,\,91539936368#\,\,\,\,\,\,0#\,\,446153# US (San 
+ Jose)\n+12532158782\,\,91539936368#\,\,\,\,\,\,0#\,\,446153# US (Tacoma)\n\
+ nDial by your location\n        +1 669 900 6833 US (San Jose)\n        +1 2
+ 53 215 8782 US (Tacoma)\n        +1 346 248 7799 US (Houston)\n        +1 3
+ 12 626 6799 US (Chicago)\n        +1 646 558 8656 US (New York)\n        +1
+  301 715 8592 US (Germantown)\nMeeting ID: 915 3993 6368\nPasscode: 446153\
+ nFind your local number: https://amherstcollege.zoom.us/u/aetAoOSr5M\n\n
+LAST-MODIFIED:20200917T084905Z
+LOCATION:https://amherstcollege.zoom.us/j/91539936368?pwd=Tm1iN0I1K1JvazlwW
+ FNoTFVXOVp5QT09
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Brandon Kwon's Zoom Meeting
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200612T183000Z
+DTEND:20200612T193000Z
+DTSTAMP:20210304T193155Z
+ORGANIZER;CN=Jeeyon Jeong:mailto:jjeong@amherst.edu
+UID:60j323fj9k584vdtpneviam5ja@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=kt
+ suyuki18@amherst.edu;X-NUM-GUESTS=0:mailto:ktsuyuki18@amherst.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Jeeyon
+  Jeong;X-NUM-GUESTS=0:mailto:jjeong@amherst.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=lk
+ im19@amherst.edu;X-NUM-GUESTS=0:mailto:lkim19@amherst.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=seopar
+ k22@amherst.edu;X-NUM-GUESTS=0:mailto:seopark22@amherst.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=mj
+ ohnson22@amherst.edu;X-NUM-GUESTS=0:mailto:mjohnson22@amherst.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=jj
+ kim22@amherst.edu;X-NUM-GUESTS=0:mailto:jjkim22@amherst.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=bk
+ won23@amherst.edu;X-NUM-GUESTS=0:mailto:bkwon23@amherst.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ke
+ zheng22@amherst.edu;X-NUM-GUESTS=0:mailto:kezheng22@amherst.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=jl
+ ondono23@amherst.edu;X-NUM-GUESTS=0:mailto:jlondono23@amherst.edu
+CREATED:20200604T181547Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the descriptio
+ n.\n\nJoin Zoom Meeting\nhttps://amherstcollege.zoom.us/j/96947661821?pwd=M
+ k9wN0Z0dmNMZnRmMUFmUnVUSWhkdz09 (ID: 96947661821\, password: 536795)\n\nJoi
+ n by phone\n(US) +1 312-626-6799\n\nJoin using SIP\n96947661821@zoomcrc.com
+  (passcode: 536795)\n\nJoining instructions: https://www.google.com/url?q=h
+ ttps://applications.zoom.us/addon/invitation/detail?meetingUuid%3DlXb1NmRhR
+ r%252BFladjl0G%252FkQ%253D%253D%26signature%3D32b883e7138d8ee67dc20b7d3c5cd
+ bb715f1f467e768a08bd4059c4ba38c7a44&sa=D&usg=AOvVaw3D0NBnPH1V78Z321rMf7JI\n
+ \nPassword: 536795\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20200929T184632Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:JeongLab
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20200619T143000
+DTEND;TZID=America/New_York:20200619T153000
+RRULE:FREQ=WEEKLY;WKST=SU;UNTIL=20200718T035959Z;BYDAY=FR
+DTSTAMP:20210304T193155Z
+ORGANIZER;CN=Jeeyon Jeong:mailto:jjeong@amherst.edu
+UID:3kj59fd81rsa4q09sii02gvp9h@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=seopar
+ k22@amherst.edu;X-NUM-GUESTS=0:mailto:seopark22@amherst.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=mj
+ ohnson22@amherst.edu;X-NUM-GUESTS=0:mailto:mjohnson22@amherst.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=jj
+ kim22@amherst.edu;X-NUM-GUESTS=0:mailto:jjkim22@amherst.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=bk
+ won23@amherst.edu;X-NUM-GUESTS=0:mailto:bkwon23@amherst.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=kt
+ suyuki18@amherst.edu;X-NUM-GUESTS=0:mailto:ktsuyuki18@amherst.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Jeeyon
+  Jeong;X-NUM-GUESTS=0:mailto:jjeong@amherst.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=lk
+ im19@amherst.edu;X-NUM-GUESTS=0:mailto:lkim19@amherst.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=jl
+ ondono23@amherst.edu;X-NUM-GUESTS=0:mailto:jlondono23@amherst.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ke
+ zheng22@amherst.edu;X-NUM-GUESTS=0:mailto:kezheng22@amherst.edu
+CREATED:20200612T213610Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the descriptio
+ n.\n\nJoin Zoom Meeting\nhttps://amherstcollege.zoom.us/j/96929939500?pwd=b
+ TF0YzFqU3hmWkdzTHJzcVh6L2F3QT09 (ID: 96929939500\, password: 764042)\n\nJoi
+ n by phone\n(US) +1 646-558-8656\n\nJoin using SIP\n96929939500@zoomcrc.com
+  (passcode: 764042)\n\nJoining instructions: https://www.google.com/url?q=h
+ ttps://applications.zoom.us/addon/invitation/detail?meetingUuid%3DLCTIzG1gQ
+ vqQer0ncTpeDQ%253D%253D%26signature%3Db10ede257d5fc0174ec71a45ba206321838cd
+ 4df8070d84c0e9f209b805c7ade&sa=D&usg=AOvVaw0Jr0wQZPVd9_hkCli3u64K\n\nPasswo
+ rd: 764042\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20200929T184636Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Jeong Lab Meeting
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210223T203000Z
+DTEND:20210223T210000Z
+DTSTAMP:20210304T193155Z
+ORGANIZER;CN=yobeng22@amherst.edu:mailto:yobeng22@amherst.edu
+UID:1E25DE4D-E9B9-4299-836A-3F16C16DE5E8
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=yobeng
+ 22@amherst.edu;X-NUM-GUESTS=0:mailto:yobeng22@amherst.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=bk
+ won23@amherst.edu;X-NUM-GUESTS=0:mailto:bkwon23@amherst.edu
+URL:https://amherstcollege.zoom.us/j/96693163726
+CREATED:20210222T174226Z
+DESCRIPTION:
+LAST-MODIFIED:20210223T204101Z
+LOCATION:https://amherstcollege.zoom.us/j/96693163726
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Yaa / Brandon
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20210220T160000
+DTEND;TZID=America/New_York:20210220T170000
+RRULE:FREQ=WEEKLY;BYDAY=SA
+DTSTAMP:20210304T193155Z
+ORGANIZER;CN=yobeng22@amherst.edu:mailto:yobeng22@amherst.edu
+UID:3c7njgli91brbfadabroao77t0@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=sp
+ alreddy24@amherst.edu;X-NUM-GUESTS=0:mailto:spalreddy24@amherst.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=bk
+ won23@amherst.edu;X-NUM-GUESTS=0:mailto:bkwon23@amherst.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=an
+ yamaa22@amherst.edu;X-NUM-GUESTS=0:mailto:anyamaa22@amherst.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=yobeng
+ 22@amherst.edu;X-NUM-GUESTS=0:mailto:yobeng22@amherst.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=msong2
+ 2@amherst.edu;X-NUM-GUESTS=0:mailto:msong22@amherst.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=dn
+ ketia24@amherst.edu;X-NUM-GUESTS=0:mailto:dnketia24@amherst.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=rr
+ li24@amherst.edu;X-NUM-GUESTS=0:mailto:rrli24@amherst.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=jo
+ luwole22@amherst.edu;X-NUM-GUESTS=0:mailto:joluwole22@amherst.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=sf
+ ernandes22@amherst.edu;X-NUM-GUESTS=0:mailto:sfernandes22@amherst.edu
+CREATED:20210220T021914Z
+DESCRIPTION:Sorry for the duplicated invite!!!<br><br>Yaa Obeng is inviting
+  you to a scheduled Zoom meeting.<br><br>Join Zoom Meeting<br><a href="http
+ s://amherstcollege.zoom.us/j/96693163726">https://amherstcollege.zoom.us/j/
+ 96693163726</a><br><br>Meeting ID: 966 9316 3726<br>One tap mobile<br>+1646
+ 5588656\,\,96693163726# US (New York)<br>+13017158592\,\,96693163726# US (W
+ ashington DC)<br><br>Dial by your location<br>&nbsp\;&nbsp\;&nbsp\;&nbsp\;&
+ nbsp\;&nbsp\;&nbsp\;&nbsp\;+1 646 558 8656 US (New York)<br>&nbsp\;&nbsp\;&
+ nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;+1 301 715 8592 US (Washington DC)
+ <br>&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;+1 312 626 6799
+  US (Chicago)<br>&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;+1
+  669 900 6833 US (San Jose)<br>&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&n
+ bsp\;&nbsp\;+1 253 215 8782 US (Tacoma)<br>&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbs
+ p\;&nbsp\;&nbsp\;&nbsp\;+1 346 248 7799 US (Houston)<br>Meeting ID: 966 931
+ 6 3726<br>Find your local number: <a href="https://amherstcollege.zoom.us/u
+ /aemBJyRjq5">https://amherstcollege.zoom.us/u/aemBJyRjq5</a><br><br>Join by
+  SIP<br><a href="mailto:96693163726@zoomcrc.com">96693163726@zoomcrc.com</a
+ ><br><br>Join by H.323<br>162.255.37.11 (US West)<br>162.255.36.11 (US East
+ )<br>115.114.131.7 (India Mumbai)<br>115.114.115.7 (India Hyderabad)<br>213
+ .19.144.110 (Amsterdam Netherlands)<br>213.244.140.110 (Germany)<br>103.122
+ .166.55 (Australia Sydney)<br>103.122.167.55 (Australia Melbourne)<br>149.1
+ 37.40.110 (Singapore)<br>64.211.144.160 (Brazil)<br>69.174.57.160 (Canada T
+ oronto)<br>65.39.152.160 (Canada Vancouver)<br>207.226.132.110 (Japan Tokyo
+ )<br>149.137.24.110 (Japan Osaka)<br>Meeting ID: 966 9316 3726
+LAST-MODIFIED:20210227T195121Z
+LOCATION:https://amherstcollege.zoom.us/j/96693163726
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:ACMAPS E-Board Meeting
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20210220T160000
+DTEND;TZID=America/New_York:20210220T170000
+DTSTAMP:20210304T193155Z
+ORGANIZER;CN=yobeng22@amherst.edu:mailto:yobeng22@amherst.edu
+UID:3c7njgli91brbfadabroao77t0@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=sp
+ alreddy24@amherst.edu;X-NUM-GUESTS=0:mailto:spalreddy24@amherst.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=bk
+ won23@amherst.edu;X-NUM-GUESTS=0:mailto:bkwon23@amherst.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=an
+ yamaa22@amherst.edu;X-NUM-GUESTS=0:mailto:anyamaa22@amherst.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=yobeng
+ 22@amherst.edu;X-NUM-GUESTS=0:mailto:yobeng22@amherst.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=msong2
+ 2@amherst.edu;X-NUM-GUESTS=0:mailto:msong22@amherst.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=dn
+ ketia24@amherst.edu;X-NUM-GUESTS=0:mailto:dnketia24@amherst.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=rrli24
+ @amherst.edu;X-NUM-GUESTS=0:mailto:rrli24@amherst.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=jo
+ luwole22@amherst.edu;X-NUM-GUESTS=0:mailto:joluwole22@amherst.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=sf
+ ernandes22@amherst.edu;X-NUM-GUESTS=0:mailto:sfernandes22@amherst.edu
+RECURRENCE-ID;TZID=America/New_York:20210220T160000
+CREATED:20210220T021914Z
+DESCRIPTION:Sorry for the duplicated invite!!!<br><br>Yaa Obeng is inviting
+  you to a scheduled Zoom meeting.<br><br>Join Zoom Meeting<br><a href="http
+ s://amherstcollege.zoom.us/j/96693163726">https://amherstcollege.zoom.us/j/
+ 96693163726</a><br><br>Meeting ID: 966 9316 3726<br>One tap mobile<br>+1646
+ 5588656\,\,96693163726# US (New York)<br>+13017158592\,\,96693163726# US (W
+ ashington DC)<br><br>Dial by your location<br>&nbsp\;&nbsp\;&nbsp\;&nbsp\;&
+ nbsp\;&nbsp\;&nbsp\;&nbsp\;+1 646 558 8656 US (New York)<br>&nbsp\;&nbsp\;&
+ nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;+1 301 715 8592 US (Washington DC)
+ <br>&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;+1 312 626 6799
+  US (Chicago)<br>&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;+1
+  669 900 6833 US (San Jose)<br>&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&n
+ bsp\;&nbsp\;+1 253 215 8782 US (Tacoma)<br>&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbs
+ p\;&nbsp\;&nbsp\;&nbsp\;+1 346 248 7799 US (Houston)<br>Meeting ID: 966 931
+ 6 3726<br>Find your local number: <a href="https://amherstcollege.zoom.us/u
+ /aemBJyRjq5">https://amherstcollege.zoom.us/u/aemBJyRjq5</a><br><br>Join by
+  SIP<br><a href="mailto:96693163726@zoomcrc.com">96693163726@zoomcrc.com</a
+ ><br><br>Join by H.323<br>162.255.37.11 (US West)<br>162.255.36.11 (US East
+ )<br>115.114.131.7 (India Mumbai)<br>115.114.115.7 (India Hyderabad)<br>213
+ .19.144.110 (Amsterdam Netherlands)<br>213.244.140.110 (Germany)<br>103.122
+ .166.55 (Australia Sydney)<br>103.122.167.55 (Australia Melbourne)<br>149.1
+ 37.40.110 (Singapore)<br>64.211.144.160 (Brazil)<br>69.174.57.160 (Canada T
+ oronto)<br>65.39.152.160 (Canada Vancouver)<br>207.226.132.110 (Japan Tokyo
+ )<br>149.137.24.110 (Japan Osaka)<br>Meeting ID: 966 9316 3726
+LAST-MODIFIED:20210227T195121Z
+LOCATION:https://amherstcollege.zoom.us/j/96693163726
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:ACMAPS E-Board Meeting
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210226T000000Z
+DTEND:20210226T010000Z
+DTSTAMP:20210304T193155Z
+ORGANIZER;CN=yobeng22@amherst.edu:mailto:yobeng22@amherst.edu
+UID:erst25voitar43uusg37b513i4@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=sp
+ alreddy24@amherst.edu;X-NUM-GUESTS=0:mailto:spalreddy24@amherst.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=bk
+ won23@amherst.edu;X-NUM-GUESTS=0:mailto:bkwon23@amherst.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=an
+ yamaa22@amherst.edu;X-NUM-GUESTS=0:mailto:anyamaa22@amherst.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=yobeng
+ 22@amherst.edu;X-NUM-GUESTS=0:mailto:yobeng22@amherst.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=msong2
+ 2@amherst.edu;X-NUM-GUESTS=0:mailto:msong22@amherst.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=rr
+ li24@amherst.edu;X-NUM-GUESTS=0:mailto:rrli24@amherst.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=dn
+ ketia24@amherst.edu;X-NUM-GUESTS=0:mailto:dnketia24@amherst.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=jo
+ luwole22@amherst.edu;X-NUM-GUESTS=0:mailto:joluwole22@amherst.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=sf
+ ernandes22@amherst.edu;X-NUM-GUESTS=0:mailto:sfernandes22@amherst.edu
+CREATED:20210222T111207Z
+DESCRIPTION:Here is the zoom link for the meeting.<br><br>Dorothy - Can you
+  please include the Meeting ID/ QR code of the Zoom on the posters for <b>T
+ uesday</b> ?<br>Rina - Can you please include the Zoom information in the e
+ -mail for <b>Tuesday</b>?<br><br>THANK YOU!<br><br>Yaa Obeng is inviting yo
+ u to a scheduled Zoom meeting.<br><br>Join Zoom Meeting<br><a href="https:/
+ /amherstcollege.zoom.us/j/95461654962">https://amherstcollege.zoom.us/j/954
+ 61654962</a><br><br>Meeting ID: 954 6165 4962<br>One tap mobile<br>+1301715
+ 8592\,\,95461654962# US (Washington DC)<br>+13126266799\,\,95461654962# US 
+ (Chicago)<br><br>Dial by your location<br>&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp
+ \;&nbsp\;&nbsp\;&nbsp\;+1 301 715 8592 US (Washington DC)<br>&nbsp\;&nbsp\;
+ &nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;+1 312 626 6799 US (Chicago)<br>&
+ nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;+1 646 558 8656 US (
+ New York)<br>&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;+1 253
+  215 8782 US (Tacoma)<br>&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&
+ nbsp\;+1 346 248 7799 US (Houston)<br>&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&n
+ bsp\;&nbsp\;&nbsp\;+1 669 900 6833 US (San Jose)<br>Meeting ID: 954 6165 49
+ 62<br>Find your local number: <a href="https://amherstcollege.zoom.us/u/aby
+ r5CNam0">https://amherstcollege.zoom.us/u/abyr5CNam0</a><br><br>Join by SIP
+ <br><a href="mailto:95461654962@zoomcrc.com">95461654962@zoomcrc.com</a><br
+ ><br>Join by H.323<br>162.255.37.11 (US West)<br>162.255.36.11 (US East)<br
+ >115.114.131.7 (India Mumbai)<br>115.114.115.7 (India Hyderabad)<br>213.19.
+ 144.110 (Amsterdam Netherlands)<br>213.244.140.110 (Germany)<br>103.122.166
+ .55 (Australia Sydney)<br>103.122.167.55 (Australia Melbourne)<br>149.137.4
+ 0.110 (Singapore)<br>64.211.144.160 (Brazil)<br>69.174.57.160 (Canada Toron
+ to)<br>65.39.152.160 (Canada Vancouver)<br>207.226.132.110 (Japan Tokyo)<br
+ >149.137.24.110 (Japan Osaka)<br>Meeting ID: 954 6165 4962
+LAST-MODIFIED:20210301T071029Z
+LOCATION:https://amherstcollege.zoom.us/j/95461654962
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:ACMAPS Club Meeting
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210228T190000Z
+DTEND:20210228T203000Z
+DTSTAMP:20210304T193155Z
+UID:0mqqud6qoqgkosm86ch5b777jo@google.com
+CREATED:20210301T073257Z
+DESCRIPTION:
+LAST-MODIFIED:20210301T073651Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Attend Church
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210228T203000Z
+DTEND:20210228T213000Z
+DTSTAMP:20210304T193155Z
+UID:221mbvjn773d3gq0kh3gh5du8s@google.com
+CREATED:20210301T073305Z
+DESCRIPTION:
+LAST-MODIFIED:20210301T073726Z
+LOCATION:
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:Eat Lunch
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210228T213000Z
+DTEND:20210228T220000Z
+DTSTAMP:20210304T193155Z
+UID:11dqvihkfv5tcrb78dvt9nmjrr@google.com
+CREATED:20210301T073414Z
+DESCRIPTION:
+LAST-MODIFIED:20210301T073730Z
+LOCATION:
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:Relax/Chill
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210228T220000Z
+DTEND:20210228T230000Z
+DTSTAMP:20210304T193155Z
+UID:0i1f6n14iifoaid7pghiiak7op@google.com
+CREATED:20210301T073421Z
+DESCRIPTION:
+LAST-MODIFIED:20210301T073734Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:KDSAP Eboard Meeting
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210228T230000Z
+DTEND:20210301T010000Z
+DTSTAMP:20210304T193155Z
+UID:7tqjp69km6vr35hpo394a71mmq@google.com
+CREATED:20210301T073448Z
+DESCRIPTION:
+LAST-MODIFIED:20210301T073738Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Study/Homework
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210301T010000Z
+DTEND:20210301T030000Z
+DTSTAMP:20210304T193155Z
+UID:1bhvqgv46s19ts34n1jbo887u9@google.com
+CREATED:20210301T073504Z
+DESCRIPTION:
+LAST-MODIFIED:20210301T073742Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Catch Up w/ Friends
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210301T030000Z
+DTEND:20210301T040000Z
+DTSTAMP:20210304T193155Z
+UID:6l9tn8nd0538930348ro1lgn9h@google.com
+CREATED:20210301T073513Z
+DESCRIPTION:
+LAST-MODIFIED:20210301T073744Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Eat Dinner
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210301T040000Z
+DTEND:20210301T100000Z
+DTSTAMP:20210304T193155Z
+UID:5u85a3vm8vkuva3b4qh31cldio@google.com
+CREATED:20210301T073535Z
+DESCRIPTION:
+LAST-MODIFIED:20210301T073746Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Study/Homework
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210301T100000Z
+DTEND:20210301T172000Z
+DTSTAMP:20210304T193155Z
+UID:7iee83qrm6pk83bbuempn3qv1k@google.com
+CREATED:20210301T073601Z
+DESCRIPTION:
+LAST-MODIFIED:20210301T190241Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Sleep
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210301T214000Z
+DTEND:20210301T224000Z
+DTSTAMP:20210304T193155Z
+UID:1lggi02c68ef02vvqnhsk7i3st@google.com
+CREATED:20210302T023059Z
+DESCRIPTION:
+LAST-MODIFIED:20210302T023059Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Eat Lunch
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210301T224000Z
+DTEND:20210302T011000Z
+DTSTAMP:20210304T193155Z
+UID:27jhsmveirguccjt48svrhhdn5@google.com
+CREATED:20210302T023131Z
+DESCRIPTION:
+LAST-MODIFIED:20210302T023137Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Nap
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210302T050000Z
+DTEND:20210302T060000Z
+DTSTAMP:20210304T193155Z
+UID:0toi2n0723q4sqnetjrtl6ueii@google.com
+CREATED:20210302T034830Z
+DESCRIPTION:
+LAST-MODIFIED:20210302T034830Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Eat Dinner
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210302T103000Z
+DTEND:20210302T180000Z
+DTSTAMP:20210304T193155Z
+UID:5bn72hebsvg7f2qrjriejgp4d7@google.com
+CREATED:20210302T060018Z
+DESCRIPTION:
+LAST-MODIFIED:20210302T060018Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Sleep
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210302T204000Z
+DTEND:20210302T214000Z
+DTSTAMP:20210304T193155Z
+UID:4hh2c59j4qha72ef4hml74rjq5@google.com
+CREATED:20210302T193012Z
+DESCRIPTION:
+LAST-MODIFIED:20210302T193012Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Eat Lunch
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210302T214000Z
+DTEND:20210303T020000Z
+DTSTAMP:20210304T193155Z
+UID:3qo7c6tjquegqcub0st93b5gcp@google.com
+CREATED:20210302T193050Z
+DESCRIPTION:
+LAST-MODIFIED:20210302T193050Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Study/Homework
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210303T020000Z
+DTEND:20210303T030000Z
+DTSTAMP:20210304T193155Z
+UID:5qdpge6j7b0en6l37fc6d9kcbk@google.com
+CREATED:20210302T193055Z
+DESCRIPTION:
+LAST-MODIFIED:20210302T193055Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Eat Dinner
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210303T090000Z
+DTEND:20210303T160000Z
+DTSTAMP:20210304T193155Z
+UID:733nr53ilqetl7q2kr5ndr2kil@google.com
+CREATED:20210302T193146Z
+DESCRIPTION:
+LAST-MODIFIED:20210302T193146Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Sleep
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210303T203000Z
+DTEND:20210303T213000Z
+DTSTAMP:20210304T193155Z
+UID:0vjp87ded7s0tfakeq7qenm7l2@google.com
+CREATED:20210303T191433Z
+DESCRIPTION:
+LAST-MODIFIED:20210303T191433Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Eat Lunch
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210304T020000Z
+DTEND:20210304T030000Z
+DTSTAMP:20210304T193155Z
+UID:431sj2udeupg3kffhjq7mmh3ia@google.com
+CREATED:20210303T191536Z
+DESCRIPTION:
+LAST-MODIFIED:20210303T191536Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Catch Up w/ a Friend
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210304T050000Z
+DTEND:20210304T060000Z
+DTSTAMP:20210304T193155Z
+UID:3jgigdpdfpdu7h8oao44jnch2p@google.com
+CREATED:20210303T191557Z
+DESCRIPTION:
+LAST-MODIFIED:20210303T191557Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Eat Dinner
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210304T103000Z
+DTEND:20210304T130000Z
+DTSTAMP:20210304T193155Z
+UID:6tlsg0kkng3hhu5tjc7a6p1v5a@google.com
+CREATED:20210304T061720Z
+DESCRIPTION:
+LAST-MODIFIED:20210304T061720Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Sleep
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210304T162000Z
+DTEND:20210304T183000Z
+DTSTAMP:20210304T193155Z
+UID:5ga7e66542tgspa28silqk9s9v@google.com
+CREATED:20210304T140338Z
+DESCRIPTION:
+LAST-MODIFIED:20210304T140338Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Nap
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210305T040000Z
+DTEND:20210305T050000Z
+DTSTAMP:20210304T193155Z
+UID:7fql5ubffi97nt5eagf2rkkn8n@google.com
+CREATED:20210304T183705Z
+DESCRIPTION:
+LAST-MODIFIED:20210304T183705Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Eat Dinner
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210305T100000Z
+DTEND:20210305T150000Z
+DTSTAMP:20210304T193155Z
+UID:5rinvo62l1bj8dfhh4vo84kdus@google.com
+CREATED:20210304T183730Z
+DESCRIPTION:
+LAST-MODIFIED:20210304T183730Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Sleep
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210301T172000Z
+DTEND:20210301T174000Z
+DTSTAMP:20210304T193155Z
+UID:6m0unds88c2026phvsfgvrnvie@google.com
+CREATED:20210301T190101Z
+DESCRIPTION:
+LAST-MODIFIED:20210304T191820Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Wake Up/Brush Teeth/Shower/Eat Breakfast
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210228T180000Z
+DTEND:20210228T190000Z
+DTSTAMP:20210304T193155Z
+UID:0kciuuoo0q9a53c2skbgpkkg3k@google.com
+CREATED:20210301T073240Z
+DESCRIPTION:
+LAST-MODIFIED:20210304T191826Z
+LOCATION:
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:Wake Up/Brush Teeth/Shower/Eat Breakfast
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210302T180000Z
+DTEND:20210302T183000Z
+DTSTAMP:20210304T193155Z
+UID:14n2hocso1f5bh50gbma8s6mma@google.com
+CREATED:20210302T192854Z
+DESCRIPTION:
+LAST-MODIFIED:20210304T191833Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Wake Up/Brush Teeth/Shower/Eat Breakfast
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210304T130000Z
+DTEND:20210304T135000Z
+DTSTAMP:20210304T193155Z
+UID:2v8pgvalflteg9jvfcn58efejd@google.com
+CREATED:20210304T140248Z
+DESCRIPTION:
+LAST-MODIFIED:20210304T191843Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Wake Up/Brush Teeth/Shower/Eat Breakfast
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20200920T170000
+DTEND;TZID=America/New_York:20200920T183000
+RRULE:FREQ=WEEKLY;UNTIL=20210228T045959Z;BYDAY=SU
+DTSTAMP:20210304T193155Z
+ORGANIZER;CN=lmcneil21@amherst.edu:mailto:lmcneil21@amherst.edu
+UID:7tticd95523gq2mgnuhc8k16i0@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=bk
+ won23@amherst.edu;X-NUM-GUESTS=0:mailto:bkwon23@amherst.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=lmcnei
+ l21@amherst.edu;X-NUM-GUESTS=0:mailto:lmcneil21@amherst.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ta
+ tajanova23@amherst.edu;X-NUM-GUESTS=0:mailto:tatajanova23@amherst.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ju
+ hlee22@amherst.edu;X-NUM-GUESTS=0:mailto:juhlee22@amherst.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=se
+ ahkim23@amherst.edu;X-NUM-GUESTS=0:mailto:seahkim23@amherst.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=dj
+ eong23@amherst.edu;X-NUM-GUESTS=0:mailto:djeong23@amherst.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=em
+ in23@amherst.edu;X-NUM-GUESTS=0:mailto:emin23@amherst.edu
+CREATED:20200920T144156Z
+DESCRIPTION:Lauren McNeil is inviting you to a scheduled Zoom meeting.\n\nJ
+ oin Zoom Meeting\nhttps://amherstcollege.zoom.us/j/97486748627\n\nMeeting I
+ D: 974 8674 8627\nOne tap mobile\n+13126266799\,\,97486748627# US (Chicago)
+ \n+16465588656\,\,97486748627# US (New York)\n\nDial by your location\n    
+     +1 312 626 6799 US (Chicago)\n        +1 646 558 8656 US (New York)\n  
+       +1 301 715 8592 US (Germantown)\n        +1 346 248 7799 US (Houston)
+ \n        +1 669 900 6833 US (San Jose)\n        +1 253 215 8782 US (Tacoma
+ )\nMeeting ID: 974 8674 8627\nFind your local number: https://amherstcolleg
+ e.zoom.us/u/aHvuOVQbh\n\nJoin by SIP\n97486748627@zoomcrc.com\n\nJoin by H.
+ 323\n162.255.37.11 (US West)\n162.255.36.11 (US East)\n115.114.131.7 (India
+  Mumbai)\n115.114.115.7 (India Hyderabad)\n213.19.144.110 (Amsterdam Nether
+ lands)\n213.244.140.110 (Germany)\n103.122.166.55 (Australia)\n149.137.40.1
+ 10 (Singapore)\n64.211.144.160 (Brazil)\n69.174.57.160 (Canada)\n207.226.13
+ 2.110 (Japan)\nMeeting ID: 974 8674 8627\n\n
+LAST-MODIFIED:20210304T191909Z
+LOCATION:https://amherstcollege.zoom.us/j/97486748627
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:KDSAP EBOARD Zoom Meeting
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20201220T170000
+DTEND;TZID=America/New_York:20201220T183000
+DTSTAMP:20210304T193155Z
+ORGANIZER;CN=lmcneil21@amherst.edu:mailto:lmcneil21@amherst.edu
+UID:7tticd95523gq2mgnuhc8k16i0@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=bk
+ won23@amherst.edu;X-NUM-GUESTS=0:mailto:bkwon23@amherst.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=lmcnei
+ l21@amherst.edu;X-NUM-GUESTS=0:mailto:lmcneil21@amherst.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ta
+ tajanova23@amherst.edu;X-NUM-GUESTS=0:mailto:tatajanova23@amherst.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ju
+ hlee22@amherst.edu;X-NUM-GUESTS=0:mailto:juhlee22@amherst.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=se
+ ahkim23@amherst.edu;X-NUM-GUESTS=0:mailto:seahkim23@amherst.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=dj
+ eong23@amherst.edu;X-NUM-GUESTS=0:mailto:djeong23@amherst.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=emin23
+ @amherst.edu;X-NUM-GUESTS=0:mailto:emin23@amherst.edu
+RECURRENCE-ID;TZID=America/New_York:20201220T170000
+CREATED:20200920T144156Z
+DESCRIPTION:Lauren McNeil is inviting you to a scheduled Zoom meeting.\n\nJ
+ oin Zoom Meeting\nhttps://amherstcollege.zoom.us/j/97486748627\n\nMeeting I
+ D: 974 8674 8627\nOne tap mobile\n+13126266799\,\,97486748627# US (Chicago)
+ \n+16465588656\,\,97486748627# US (New York)\n\nDial by your location\n    
+     +1 312 626 6799 US (Chicago)\n        +1 646 558 8656 US (New York)\n  
+       +1 301 715 8592 US (Germantown)\n        +1 346 248 7799 US (Houston)
+ \n        +1 669 900 6833 US (San Jose)\n        +1 253 215 8782 US (Tacoma
+ )\nMeeting ID: 974 8674 8627\nFind your local number: https://amherstcolleg
+ e.zoom.us/u/aHvuOVQbh\n\nJoin by SIP\n97486748627@zoomcrc.com\n\nJoin by H.
+ 323\n162.255.37.11 (US West)\n162.255.36.11 (US East)\n115.114.131.7 (India
+  Mumbai)\n115.114.115.7 (India Hyderabad)\n213.19.144.110 (Amsterdam Nether
+ lands)\n213.244.140.110 (Germany)\n103.122.166.55 (Australia)\n149.137.40.1
+ 10 (Singapore)\n64.211.144.160 (Brazil)\n69.174.57.160 (Canada)\n207.226.13
+ 2.110 (Japan)\nMeeting ID: 974 8674 8627\n\n
+LAST-MODIFIED:20210304T191909Z
+LOCATION:https://amherstcollege.zoom.us/j/97486748627
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:KDSAP EBOARD Zoom Meeting
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20201227T170000
+DTEND;TZID=America/New_York:20201227T183000
+DTSTAMP:20210304T193155Z
+ORGANIZER;CN=lmcneil21@amherst.edu:mailto:lmcneil21@amherst.edu
+UID:7tticd95523gq2mgnuhc8k16i0@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=bk
+ won23@amherst.edu;X-NUM-GUESTS=0:mailto:bkwon23@amherst.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=lmcnei
+ l21@amherst.edu;X-NUM-GUESTS=0:mailto:lmcneil21@amherst.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ta
+ tajanova23@amherst.edu;X-NUM-GUESTS=0:mailto:tatajanova23@amherst.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ju
+ hlee22@amherst.edu;X-NUM-GUESTS=0:mailto:juhlee22@amherst.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=se
+ ahkim23@amherst.edu;X-NUM-GUESTS=0:mailto:seahkim23@amherst.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=dj
+ eong23@amherst.edu;X-NUM-GUESTS=0:mailto:djeong23@amherst.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=emin23
+ @amherst.edu;X-NUM-GUESTS=0:mailto:emin23@amherst.edu
+RECURRENCE-ID;TZID=America/New_York:20201227T170000
+CREATED:20200920T144156Z
+DESCRIPTION:Lauren McNeil is inviting you to a scheduled Zoom meeting.\n\nJ
+ oin Zoom Meeting\nhttps://amherstcollege.zoom.us/j/97486748627\n\nMeeting I
+ D: 974 8674 8627\nOne tap mobile\n+13126266799\,\,97486748627# US (Chicago)
+ \n+16465588656\,\,97486748627# US (New York)\n\nDial by your location\n    
+     +1 312 626 6799 US (Chicago)\n        +1 646 558 8656 US (New York)\n  
+       +1 301 715 8592 US (Germantown)\n        +1 346 248 7799 US (Houston)
+ \n        +1 669 900 6833 US (San Jose)\n        +1 253 215 8782 US (Tacoma
+ )\nMeeting ID: 974 8674 8627\nFind your local number: https://amherstcolleg
+ e.zoom.us/u/aHvuOVQbh\n\nJoin by SIP\n97486748627@zoomcrc.com\n\nJoin by H.
+ 323\n162.255.37.11 (US West)\n162.255.36.11 (US East)\n115.114.131.7 (India
+  Mumbai)\n115.114.115.7 (India Hyderabad)\n213.19.144.110 (Amsterdam Nether
+ lands)\n213.244.140.110 (Germany)\n103.122.166.55 (Australia)\n149.137.40.1
+ 10 (Singapore)\n64.211.144.160 (Brazil)\n69.174.57.160 (Canada)\n207.226.13
+ 2.110 (Japan)\nMeeting ID: 974 8674 8627\n\n
+LAST-MODIFIED:20210304T191909Z
+LOCATION:https://amherstcollege.zoom.us/j/97486748627
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:KDSAP EBOARD Zoom Meeting
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20210103T170000
+DTEND;TZID=America/New_York:20210103T183000
+DTSTAMP:20210304T193155Z
+ORGANIZER;CN=lmcneil21@amherst.edu:mailto:lmcneil21@amherst.edu
+UID:7tticd95523gq2mgnuhc8k16i0@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=bk
+ won23@amherst.edu;X-NUM-GUESTS=0:mailto:bkwon23@amherst.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=lmcnei
+ l21@amherst.edu;X-NUM-GUESTS=0:mailto:lmcneil21@amherst.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ta
+ tajanova23@amherst.edu;X-NUM-GUESTS=0:mailto:tatajanova23@amherst.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ju
+ hlee22@amherst.edu;X-NUM-GUESTS=0:mailto:juhlee22@amherst.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=se
+ ahkim23@amherst.edu;X-NUM-GUESTS=0:mailto:seahkim23@amherst.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=dj
+ eong23@amherst.edu;X-NUM-GUESTS=0:mailto:djeong23@amherst.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=emin23
+ @amherst.edu;X-NUM-GUESTS=0:mailto:emin23@amherst.edu
+RECURRENCE-ID;TZID=America/New_York:20210103T170000
+CREATED:20200920T144156Z
+DESCRIPTION:Lauren McNeil is inviting you to a scheduled Zoom meeting.\n\nJ
+ oin Zoom Meeting\nhttps://amherstcollege.zoom.us/j/97486748627\n\nMeeting I
+ D: 974 8674 8627\nOne tap mobile\n+13126266799\,\,97486748627# US (Chicago)
+ \n+16465588656\,\,97486748627# US (New York)\n\nDial by your location\n    
+     +1 312 626 6799 US (Chicago)\n        +1 646 558 8656 US (New York)\n  
+       +1 301 715 8592 US (Germantown)\n        +1 346 248 7799 US (Houston)
+ \n        +1 669 900 6833 US (San Jose)\n        +1 253 215 8782 US (Tacoma
+ )\nMeeting ID: 974 8674 8627\nFind your local number: https://amherstcolleg
+ e.zoom.us/u/aHvuOVQbh\n\nJoin by SIP\n97486748627@zoomcrc.com\n\nJoin by H.
+ 323\n162.255.37.11 (US West)\n162.255.36.11 (US East)\n115.114.131.7 (India
+  Mumbai)\n115.114.115.7 (India Hyderabad)\n213.19.144.110 (Amsterdam Nether
+ lands)\n213.244.140.110 (Germany)\n103.122.166.55 (Australia)\n149.137.40.1
+ 10 (Singapore)\n64.211.144.160 (Brazil)\n69.174.57.160 (Canada)\n207.226.13
+ 2.110 (Japan)\nMeeting ID: 974 8674 8627\n\n
+LAST-MODIFIED:20210304T191909Z
+LOCATION:https://amherstcollege.zoom.us/j/97486748627
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:KDSAP EBOARD Zoom Meeting
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20210110T170000
+DTEND;TZID=America/New_York:20210110T183000
+DTSTAMP:20210304T193155Z
+ORGANIZER;CN=lmcneil21@amherst.edu:mailto:lmcneil21@amherst.edu
+UID:7tticd95523gq2mgnuhc8k16i0@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=bk
+ won23@amherst.edu;X-NUM-GUESTS=0:mailto:bkwon23@amherst.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=lmcnei
+ l21@amherst.edu;X-NUM-GUESTS=0:mailto:lmcneil21@amherst.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ta
+ tajanova23@amherst.edu;X-NUM-GUESTS=0:mailto:tatajanova23@amherst.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ju
+ hlee22@amherst.edu;X-NUM-GUESTS=0:mailto:juhlee22@amherst.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=se
+ ahkim23@amherst.edu;X-NUM-GUESTS=0:mailto:seahkim23@amherst.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=dj
+ eong23@amherst.edu;X-NUM-GUESTS=0:mailto:djeong23@amherst.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=emin23
+ @amherst.edu;X-NUM-GUESTS=0:mailto:emin23@amherst.edu
+RECURRENCE-ID;TZID=America/New_York:20210110T170000
+CREATED:20200920T144156Z
+DESCRIPTION:Lauren McNeil is inviting you to a scheduled Zoom meeting.\n\nJ
+ oin Zoom Meeting\nhttps://amherstcollege.zoom.us/j/97486748627\n\nMeeting I
+ D: 974 8674 8627\nOne tap mobile\n+13126266799\,\,97486748627# US (Chicago)
+ \n+16465588656\,\,97486748627# US (New York)\n\nDial by your location\n    
+     +1 312 626 6799 US (Chicago)\n        +1 646 558 8656 US (New York)\n  
+       +1 301 715 8592 US (Germantown)\n        +1 346 248 7799 US (Houston)
+ \n        +1 669 900 6833 US (San Jose)\n        +1 253 215 8782 US (Tacoma
+ )\nMeeting ID: 974 8674 8627\nFind your local number: https://amherstcolleg
+ e.zoom.us/u/aHvuOVQbh\n\nJoin by SIP\n97486748627@zoomcrc.com\n\nJoin by H.
+ 323\n162.255.37.11 (US West)\n162.255.36.11 (US East)\n115.114.131.7 (India
+  Mumbai)\n115.114.115.7 (India Hyderabad)\n213.19.144.110 (Amsterdam Nether
+ lands)\n213.244.140.110 (Germany)\n103.122.166.55 (Australia)\n149.137.40.1
+ 10 (Singapore)\n64.211.144.160 (Brazil)\n69.174.57.160 (Canada)\n207.226.13
+ 2.110 (Japan)\nMeeting ID: 974 8674 8627\n\n
+LAST-MODIFIED:20210304T191909Z
+LOCATION:https://amherstcollege.zoom.us/j/97486748627
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:KDSAP EBOARD Zoom Meeting
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20210117T170000
+DTEND;TZID=America/New_York:20210117T183000
+DTSTAMP:20210304T193155Z
+ORGANIZER;CN=lmcneil21@amherst.edu:mailto:lmcneil21@amherst.edu
+UID:7tticd95523gq2mgnuhc8k16i0@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=bk
+ won23@amherst.edu;X-NUM-GUESTS=0:mailto:bkwon23@amherst.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=lmcnei
+ l21@amherst.edu;X-NUM-GUESTS=0:mailto:lmcneil21@amherst.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ta
+ tajanova23@amherst.edu;X-NUM-GUESTS=0:mailto:tatajanova23@amherst.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ju
+ hlee22@amherst.edu;X-NUM-GUESTS=0:mailto:juhlee22@amherst.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=se
+ ahkim23@amherst.edu;X-NUM-GUESTS=0:mailto:seahkim23@amherst.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=dj
+ eong23@amherst.edu;X-NUM-GUESTS=0:mailto:djeong23@amherst.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=emin23
+ @amherst.edu;X-NUM-GUESTS=0:mailto:emin23@amherst.edu
+RECURRENCE-ID;TZID=America/New_York:20210117T170000
+CREATED:20200920T144156Z
+DESCRIPTION:Lauren McNeil is inviting you to a scheduled Zoom meeting.\n\nJ
+ oin Zoom Meeting\nhttps://amherstcollege.zoom.us/j/97486748627\n\nMeeting I
+ D: 974 8674 8627\nOne tap mobile\n+13126266799\,\,97486748627# US (Chicago)
+ \n+16465588656\,\,97486748627# US (New York)\n\nDial by your location\n    
+     +1 312 626 6799 US (Chicago)\n        +1 646 558 8656 US (New York)\n  
+       +1 301 715 8592 US (Germantown)\n        +1 346 248 7799 US (Houston)
+ \n        +1 669 900 6833 US (San Jose)\n        +1 253 215 8782 US (Tacoma
+ )\nMeeting ID: 974 8674 8627\nFind your local number: https://amherstcolleg
+ e.zoom.us/u/aHvuOVQbh\n\nJoin by SIP\n97486748627@zoomcrc.com\n\nJoin by H.
+ 323\n162.255.37.11 (US West)\n162.255.36.11 (US East)\n115.114.131.7 (India
+  Mumbai)\n115.114.115.7 (India Hyderabad)\n213.19.144.110 (Amsterdam Nether
+ lands)\n213.244.140.110 (Germany)\n103.122.166.55 (Australia)\n149.137.40.1
+ 10 (Singapore)\n64.211.144.160 (Brazil)\n69.174.57.160 (Canada)\n207.226.13
+ 2.110 (Japan)\nMeeting ID: 974 8674 8627\n\n
+LAST-MODIFIED:20210304T191909Z
+LOCATION:https://amherstcollege.zoom.us/j/97486748627
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:KDSAP EBOARD Zoom Meeting
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20210124T170000
+DTEND;TZID=America/New_York:20210124T183000
+DTSTAMP:20210304T193155Z
+ORGANIZER;CN=lmcneil21@amherst.edu:mailto:lmcneil21@amherst.edu
+UID:7tticd95523gq2mgnuhc8k16i0@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=bk
+ won23@amherst.edu;X-NUM-GUESTS=0:mailto:bkwon23@amherst.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=lmcnei
+ l21@amherst.edu;X-NUM-GUESTS=0:mailto:lmcneil21@amherst.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ta
+ tajanova23@amherst.edu;X-NUM-GUESTS=0:mailto:tatajanova23@amherst.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ju
+ hlee22@amherst.edu;X-NUM-GUESTS=0:mailto:juhlee22@amherst.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=se
+ ahkim23@amherst.edu;X-NUM-GUESTS=0:mailto:seahkim23@amherst.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=dj
+ eong23@amherst.edu;X-NUM-GUESTS=0:mailto:djeong23@amherst.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=emin23
+ @amherst.edu;X-NUM-GUESTS=0:mailto:emin23@amherst.edu
+RECURRENCE-ID;TZID=America/New_York:20210124T170000
+CREATED:20200920T144156Z
+DESCRIPTION:Lauren McNeil is inviting you to a scheduled Zoom meeting.\n\nJ
+ oin Zoom Meeting\nhttps://amherstcollege.zoom.us/j/97486748627\n\nMeeting I
+ D: 974 8674 8627\nOne tap mobile\n+13126266799\,\,97486748627# US (Chicago)
+ \n+16465588656\,\,97486748627# US (New York)\n\nDial by your location\n    
+     +1 312 626 6799 US (Chicago)\n        +1 646 558 8656 US (New York)\n  
+       +1 301 715 8592 US (Germantown)\n        +1 346 248 7799 US (Houston)
+ \n        +1 669 900 6833 US (San Jose)\n        +1 253 215 8782 US (Tacoma
+ )\nMeeting ID: 974 8674 8627\nFind your local number: https://amherstcolleg
+ e.zoom.us/u/aHvuOVQbh\n\nJoin by SIP\n97486748627@zoomcrc.com\n\nJoin by H.
+ 323\n162.255.37.11 (US West)\n162.255.36.11 (US East)\n115.114.131.7 (India
+  Mumbai)\n115.114.115.7 (India Hyderabad)\n213.19.144.110 (Amsterdam Nether
+ lands)\n213.244.140.110 (Germany)\n103.122.166.55 (Australia)\n149.137.40.1
+ 10 (Singapore)\n64.211.144.160 (Brazil)\n69.174.57.160 (Canada)\n207.226.13
+ 2.110 (Japan)\nMeeting ID: 974 8674 8627\n\n
+LAST-MODIFIED:20210304T191909Z
+LOCATION:https://amherstcollege.zoom.us/j/97486748627
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:KDSAP EBOARD Zoom Meeting
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20210131T170000
+DTEND;TZID=America/New_York:20210131T183000
+DTSTAMP:20210304T193155Z
+ORGANIZER;CN=lmcneil21@amherst.edu:mailto:lmcneil21@amherst.edu
+UID:7tticd95523gq2mgnuhc8k16i0@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=bk
+ won23@amherst.edu;X-NUM-GUESTS=0:mailto:bkwon23@amherst.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=lmcnei
+ l21@amherst.edu;X-NUM-GUESTS=0:mailto:lmcneil21@amherst.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ta
+ tajanova23@amherst.edu;X-NUM-GUESTS=0:mailto:tatajanova23@amherst.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ju
+ hlee22@amherst.edu;X-NUM-GUESTS=0:mailto:juhlee22@amherst.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=se
+ ahkim23@amherst.edu;X-NUM-GUESTS=0:mailto:seahkim23@amherst.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=dj
+ eong23@amherst.edu;X-NUM-GUESTS=0:mailto:djeong23@amherst.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=DECLINED;CN=emin23
+ @amherst.edu;X-NUM-GUESTS=0:mailto:emin23@amherst.edu
+RECURRENCE-ID;TZID=America/New_York:20210131T170000
+CREATED:20200920T144156Z
+DESCRIPTION:Lauren McNeil is inviting you to a scheduled Zoom meeting.\n\nJ
+ oin Zoom Meeting\nhttps://amherstcollege.zoom.us/j/97486748627\n\nMeeting I
+ D: 974 8674 8627\nOne tap mobile\n+13126266799\,\,97486748627# US (Chicago)
+ \n+16465588656\,\,97486748627# US (New York)\n\nDial by your location\n    
+     +1 312 626 6799 US (Chicago)\n        +1 646 558 8656 US (New York)\n  
+       +1 301 715 8592 US (Germantown)\n        +1 346 248 7799 US (Houston)
+ \n        +1 669 900 6833 US (San Jose)\n        +1 253 215 8782 US (Tacoma
+ )\nMeeting ID: 974 8674 8627\nFind your local number: https://amherstcolleg
+ e.zoom.us/u/aHvuOVQbh\n\nJoin by SIP\n97486748627@zoomcrc.com\n\nJoin by H.
+ 323\n162.255.37.11 (US West)\n162.255.36.11 (US East)\n115.114.131.7 (India
+  Mumbai)\n115.114.115.7 (India Hyderabad)\n213.19.144.110 (Amsterdam Nether
+ lands)\n213.244.140.110 (Germany)\n103.122.166.55 (Australia)\n149.137.40.1
+ 10 (Singapore)\n64.211.144.160 (Brazil)\n69.174.57.160 (Canada)\n207.226.13
+ 2.110 (Japan)\nMeeting ID: 974 8674 8627\n\n
+LAST-MODIFIED:20210304T191909Z
+LOCATION:https://amherstcollege.zoom.us/j/97486748627
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:KDSAP EBOARD Zoom Meeting
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210301T174000Z
+DTEND:20210301T191000Z
+DTSTAMP:20210304T193155Z
+UID:60tonecogd85m5up6nopuodsmp@google.com
+CREATED:20210301T190326Z
+DESCRIPTION:
+LAST-MODIFIED:20210304T192102Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:CHEM 231
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210301T191000Z
+DTEND:20210301T205000Z
+DTSTAMP:20210304T193155Z
+UID:1eeeaj6f9l63q471mlctt2s7qn@google.com
+CREATED:20210304T192206Z
+DESCRIPTION:
+LAST-MODIFIED:20210304T192206Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:BIOL191
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210301T205000Z
+DTEND:20210301T214000Z
+DTSTAMP:20210304T193155Z
+UID:3n4m67fn7rqnc5j3f4nejisjdk@google.com
+CREATED:20210304T192230Z
+DESCRIPTION:
+LAST-MODIFIED:20210304T192230Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:CHEM 231
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210302T011000Z
+DTEND:20210302T050000Z
+DTSTAMP:20210304T193155Z
+UID:4kvg3ornrtp7drogi2dsef54nb@google.com
+CREATED:20210302T034823Z
+DESCRIPTION:
+LAST-MODIFIED:20210304T192247Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Study/Homework
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210302T060000Z
+DTEND:20210302T080000Z
+DTSTAMP:20210304T193155Z
+UID:51cuv8bj7d2stf1f6sqje7vpmu@google.com
+CREATED:20210302T034839Z
+DESCRIPTION:
+LAST-MODIFIED:20210304T192301Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Study/Homework
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210302T080000Z
+DTEND:20210302T103000Z
+DTSTAMP:20210304T193155Z
+UID:2qh2o54qro236obcpm57j38qup@google.com
+CREATED:20210304T192319Z
+DESCRIPTION:
+LAST-MODIFIED:20210304T192319Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Computer Games
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210302T183000Z
+DTEND:20210302T195000Z
+DTSTAMP:20210304T193155Z
+UID:6dn1457outto7ic7kk54ogp2fc@google.com
+CREATED:20210302T192909Z
+DESCRIPTION:
+LAST-MODIFIED:20210304T192337Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:STAT 231
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210302T195000Z
+DTEND:20210302T202000Z
+DTSTAMP:20210304T193155Z
+UID:4lvh4ltf8q9dapn2p5nnt692qh@google.com
+CREATED:20210302T192926Z
+DESCRIPTION:
+LAST-MODIFIED:20210304T192354Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Relax/Chill
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210302T202000Z
+DTEND:20210302T204000Z
+DTSTAMP:20210304T193155Z
+UID:6n2vcl538bqe6j5tpi9v7av1k8@google.com
+CREATED:20210302T192951Z
+DESCRIPTION:
+LAST-MODIFIED:20210304T192403Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:ENGL 272
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210303T030000Z
+DTEND:20210303T050000Z
+DTSTAMP:20210304T193155Z
+UID:5dfklfe65k0a5uq23470e0vugo@google.com
+CREATED:20210302T193115Z
+DESCRIPTION:
+LAST-MODIFIED:20210304T192449Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Meet w/ Friend
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210303T050000Z
+DTEND:20210303T090000Z
+DTSTAMP:20210304T193155Z
+UID:73fkm5ab7n8j1ocvmekl34mp1o@google.com
+CREATED:20210304T192508Z
+DESCRIPTION:
+LAST-MODIFIED:20210304T192508Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Study/Homework
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210304T135000Z
+DTEND:20210304T162000Z
+DTSTAMP:20210304T193155Z
+UID:43e8ps0l5ng56jrla5cc48a1nv@google.com
+CREATED:20210304T140308Z
+DESCRIPTION:
+LAST-MODIFIED:20210304T192530Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:CHEM 231
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210303T160000Z
+DTEND:20210303T162000Z
+DTSTAMP:20210304T193155Z
+UID:7d2sdvf1lpq0i7c512eq4ffusg@google.com
+CREATED:20210303T191403Z
+DESCRIPTION:
+LAST-MODIFIED:20210304T192556Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Wake Up/Brush Teeth/Shower/Eat Breakfast
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210303T162000Z
+DTEND:20210303T171000Z
+DTSTAMP:20210304T193155Z
+UID:79fl6ih08d07f16ndgrtua8924@google.com
+CREATED:20210303T191425Z
+DESCRIPTION:
+LAST-MODIFIED:20210304T192611Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:CHEM 231
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210303T171000Z
+DTEND:20210303T180000Z
+DTSTAMP:20210304T193155Z
+UID:7peg89k486vmm89bfii0ckt2ff@google.com
+CREATED:20210304T192638Z
+DESCRIPTION:
+LAST-MODIFIED:20210304T192638Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:BIOL 191
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210303T180000Z
+DTEND:20210303T191000Z
+DTSTAMP:20210304T193155Z
+UID:31gaf59qkbn3iopi1mo8q3di9s@google.com
+CREATED:20210304T192653Z
+DESCRIPTION:
+LAST-MODIFIED:20210304T192653Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Relax/Chill
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210303T191000Z
+DTEND:20210303T203000Z
+DTSTAMP:20210304T193155Z
+UID:276oruh1nai70lrgl1cqf0sc2s@google.com
+CREATED:20210304T192707Z
+DESCRIPTION:
+LAST-MODIFIED:20210304T192707Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:ENGL 272
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210303T213000Z
+DTEND:20210303T223000Z
+DTSTAMP:20210304T193155Z
+UID:6hbge8okumngngs62biae6b7cg@google.com
+CREATED:20210303T191450Z
+DESCRIPTION:
+LAST-MODIFIED:20210304T192745Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Relax/Chill
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210303T223000Z
+DTEND:20210304T003000Z
+DTSTAMP:20210304T193155Z
+UID:3pqrqbij27qu40uf3n0f18isjf@google.com
+CREATED:20210303T191457Z
+DESCRIPTION:
+LAST-MODIFIED:20210304T192752Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:BIOL 191
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210304T003000Z
+DTEND:20210304T020000Z
+DTSTAMP:20210304T193155Z
+UID:1cisevu4njudbp4ve4m8aeidsp@google.com
+CREATED:20210303T191526Z
+DESCRIPTION:
+LAST-MODIFIED:20210304T192801Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:ENGL 272 Meeting
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210304T030000Z
+DTEND:20210304T050000Z
+DTSTAMP:20210304T193155Z
+UID:2kro6oati9npvcaskfne20megp@google.com
+CREATED:20210303T191554Z
+DESCRIPTION:
+LAST-MODIFIED:20210304T192817Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Study/Homework
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210304T060000Z
+DTEND:20210304T103000Z
+DTSTAMP:20210304T193155Z
+UID:5qp22jlnhtl9dc5ftd1rvojsvk@google.com
+CREATED:20210303T191609Z
+DESCRIPTION:
+LAST-MODIFIED:20210304T192922Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Study/Homework
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210304T183000Z
+DTEND:20210304T195000Z
+DTSTAMP:20210304T193155Z
+UID:0qe7fpae526jsrg0bpc437v9ke@google.com
+CREATED:20210304T183632Z
+DESCRIPTION:
+LAST-MODIFIED:20210304T192943Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:STAT 231
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210304T195000Z
+DTEND:20210304T210000Z
+DTSTAMP:20210304T193155Z
+UID:63q8n21ogiolep26djsbpgm93l@google.com
+CREATED:20210304T183650Z
+DESCRIPTION:
+LAST-MODIFIED:20210304T193000Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Eat Lunch
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210304T210000Z
+DTEND:20210305T040000Z
+DTSTAMP:20210304T193155Z
+UID:6l50f7friqsbnh59uccvbqj93j@google.com
+CREATED:20210304T183701Z
+DESCRIPTION:
+LAST-MODIFIED:20210304T193008Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Study/Homework
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210305T050000Z
+DTEND:20210305T100000Z
+DTSTAMP:20210304T193155Z
+UID:2f8qca76bgf420qoobrm2bhr2p@google.com
+CREATED:20210304T183718Z
+DESCRIPTION:
+LAST-MODIFIED:20210304T193018Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Study/Homework
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
