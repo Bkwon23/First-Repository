@@ -124,7 +124,6 @@ ggplot(data = City_violations) +
 
 Generate the code to convert the data frame shown with this problem in the textbook (on page 130, and shown below) to wide format (i.e., the result table).  Hint: use `gather()` in conjunction with `spread()`; OR `pivot_longer()` in conjunction with `pivot_wider()`.
 
-![](images/mdsr_ex_5_7.jpg)
 
 ```{r}
 FakeDataLong <- data.frame(grp = c("A","A","B", "B")
