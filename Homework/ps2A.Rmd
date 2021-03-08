@@ -139,7 +139,6 @@ head(BabyWide, 3)
 Lastly, use the `gather()` function (or the `pivot_longer()` function) to put the dataset back into narrow form.  Call this dataset `BabyNarrow2`.  Hint: see Section 5.2.3.  Why are the number of observations in `BabyNarrow2` different from that in `BabyNarrow`?
 
 > ANSWER: BabyNarrow2 has a different number of observations from BabyNarrow because BabyNarrow2 takes the sum of the number of individuals in accordance to each name, whereas BabyNarrow does not but rather explicitly states the exact number of individuals that corresponds to each name.
-
 ```{r}
 BabyNarrow2 <- BabyWide %>%
   gather(key = sex, value = total, M, F)

@@ -83,20 +83,26 @@ Get acquainted with the `spending` and `coverage` datasets.  What years are cove
 
 If we're interested in the relationship between spending and coverage, we'll only be able to use observations that have information on both.  That is, we won't be using data from years for which we only have spending information or only have coverage information.  Remove any variables we won't be using from `spending` and `coverage`.  (Hint: the `starts_with` function could help with efficiency here: https://tidyselect.r-lib.org/reference/starts_with.html)
 
-> RESPONSE: 
+> RESPONSE: The coverage dataset spans over the years of 2031-2016, and the spending dataset covers the years from 1991 to 2014.  As a result, because the only overlap is from 2013 to 2014, we use the overlap to the best of our ability to make comparisons.
 
 ```{r}
-spending2 <- spending %>%
+coveragenew <- coverage %>%
   select(Location, starts_with(c("2013", "2014")))
-spending2
+spendingnew <- spending %>%
+  select(Location, starts_with(c("2013", "2014")))
+coveragenew
+spendingnew
 ```
 
 Note that there are observations both for the US as a whole and DC.  Remove these observations from both datasets.
 
 ```{r}
-spending3 < - spending2 %>%
-  
-spending3
+coveragestates <- coveragenew %>%
+  filter(Location != "United States" & Location != "District of Columbia")
+spendingstates <- spendingnew %>%
+  filter(Location != "United States" & Location != "District of Columbia")
+coveragestates
+spendingstates
 ```
 
 *This is a good place to pause, commit changes with the commit message "Added answer for Warm-up", and push.*
@@ -109,7 +115,7 @@ Let's start by creating a scatterplot with log(spending) on the x-axis and log(e
 
 First, sketch the scatterplot (don't worry about the actual x-y relationship, but be sure to identify the different variables that will be needed to create the plot).  What variables do you need in the dataset in order to create the scatterplot in ggplot?  What will each observation (row) in the dataset represent?
 
-> RESPONSE: In the dataset, I need all the variables that correspond to the years 2013 and 2014.  Each observation (row) in the dataset will represent a specific state's aspects of health coverage and spending in the years of 2013 and 2014.
+> RESPONSE: The variables needed for the x-axis will be "2013 Total Health Spending" and "2014_Total Health Spending".  The variables needed for the y-axis will be "2013_Employer" and "2014_Employer".  The variable "Location" will be used to differentiate the points.  Each observation will represent a specific state's healthcare spending and employer coverage for a specific year.
 
 What are some of the steps that will need to be taken to get the data in that form?  
 
@@ -123,9 +129,7 @@ Now implement those steps in R, tidying the dataset for plotting.  After the fin
 
 
 ```{r}
-total <- spending2 %>%
-  inner_join(location)
-total
+
 ```
 
 We see there is a strong relationship between log(spending) and log(coverage) within each year. However, you might suspect that health care coverage and spending is also strongly related to population size.  In the `coverage` dataset, the total type is not really a formal type of health care coverage. It really represents just the total number of people in the state. This is useful information.  Next:
