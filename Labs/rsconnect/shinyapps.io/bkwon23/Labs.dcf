@@ -1,0 +1,12 @@
+name: Labs
+title: Labs
+username:
+account: bkwon23
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3762783
+bundleId: 4322421
+url: https://bkwon23.shinyapps.io/Labs/
+when: 1615316268.75822
+asMultiple: FALSE
+asStatic: FALSE
