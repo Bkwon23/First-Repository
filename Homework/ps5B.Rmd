@@ -81,11 +81,9 @@ b. Go to the [List of Justices of the Supreme Court of the United States](https:
 ## submit this one knit PDF to Gradescope.)
 
 url <- "https://en.wikipedia.org/wiki/List_of_justices_of_the_Supreme_Court_of_the_United_States"
-tables <- (
-  url %>%
+tables <- url %>%
     read_html() %>%
-    html_nodes("table"))
-  html_table()
+    html_nodes("table")
   justice <- html_table(tables[[2]], fill = TRUE)
   justice
 write_csv(justice, file = "justices.csv")
@@ -99,10 +97,10 @@ c. Load `justices.csv` into this file using the `read_csv` function.  Then, run 
 
 Create a visualization to show the distribution of tenure length of U.S. Supreme Court judges.  Interpret the plot.
 
-> ANSWER:   There seems to be a significantly high concentration of U.S. Supreme Court Justices who have served on the court for a tenure of fewer than 20 years.  This is when compared to Justices who have served for at least 25 years.  This could be because you need to have a considerable amount of legal experience before assuming a seat, and as a result, most appointed justices are elderly.  Therefore, despite having their seat "for life," many may reach a retirement age relatively early in their career serving on the Supreme Court.
+> ANSWER:   There seems to be a significantly high concentration of U.S. Supreme Court Justices who have served on the court for a tenure of fewer than 20 years.  This is when compared to Justices who have served for at least 25 years.  This could be because you need to have a considerable amount of legal experience before assuming a seat, and as a result, most appointed justices are elderly.  Therefore, despite having their seat "for life," many may reach a retirement age relatively early in their career serving on the Supreme Court.  Moreover, in general, it is very difficult to retain a seat in the U.S. Supreme Court mostly due to dismissal issues, stress issues, and other negative factors.  Therefore, it is not surprising as to why fewer individuals serve on the U.S. Supreme Court for longer periods of time.
 
 ```{r}
-justices <- read_csv("INSERT YOUR PATH HERE/justices.csv")
+justices <- read_csv("~/Spring 2021/Data Science - STAT 231/First-Repository/justices.csv")
 
 justices2 <- justices %>%
   clean_names() %>%
@@ -124,8 +122,8 @@ justices2 <- justices %>%
   mutate(date_confirmed = lubridate::mdy(date_confirmed_vote))
 
 ggplot(data = justices2, aes(x = tenure_length)) + 
-  geom_density(adjust = 1/5, fill = "seagreen", color = "midnightblue") + 
-  labs(title = "Distribution of U.S. Supreme Court Justice's Term Lengths", x = "Tenure Length (Years)")
+  geom_density(fill = "seagreen", alpha = 0.5, color = "midnightblue") + 
+  labs(title = "Distribution of U.S. Supreme Court Justice's Term Lengths", x = "Tenure Length (Years)", y = "Density")
   
 
 
