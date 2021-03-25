@@ -123,7 +123,8 @@ justices2 <- justices %>%
 
 ggplot(data = justices2, aes(x = tenure_length)) + 
   geom_density(fill = "seagreen", alpha = 0.5, color = "midnightblue") + 
-  labs(title = "Distribution of U.S. Supreme Court Justice's Term Lengths", x = "Tenure Length (Years)", y = "Density")
+  labs(title = "Distribution of U.S. Supreme Court Justice's Term Lengths", x = "Tenure Length (Years)", 
+       y = "Density")
   
 
 
