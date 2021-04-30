@@ -194,9 +194,9 @@ First, we load the data and conduct a little data wrangling to get a dataset wit
 
 ```{r}
 # load chronicle data from July 2020
-path_in <- "~/Spring 2021/Data Science - STAT 231/First-Repository/Labs/Unemployment.xls"
+path_in <- "~/Spring 2021/Data Science - STAT 231/course-content/data"
 
-college_plans0 <- read_csv(paste0(path_in, "/Unemployment.csv"))
+college_plans0 <- read_csv(paste0(path_in, "/chronicle_plans.csv))
 
 college_plans <- college_plans0 %>%
   extract(col = X.1, into = "plans0"
@@ -240,6 +240,9 @@ head(state_info)
 head(usa_states)
 
 # add full name of state to chronicle dataset 
+
+
+
 # then merge with mapping dataset
 college_plans_map <- college_plans_state %>%
   left_join(state_info, by = "State") %>%
@@ -423,7 +426,7 @@ Code for each is given below.  JUST CHOOSE ONE to focus on.  If you post your im
 
 # example of dataset with state information from 2013-2014
 #library(fivethirtyeight)
-#hate_crimes <- fivethirtyeight::hate_crimes
+hate_crimes <- fivethirtyeight::hate_crimes
 
 # example of another dataset with state information from 1977 
 # from the datasets package loaded above
@@ -433,31 +436,30 @@ Code for each is given below.  JUST CHOOSE ONE to focus on.  If you post your im
 
 # example of dataset with county-level information from 2019
 # see second tab in excel file for variable explanations
-county_employment <- readxl::read_excel(paste0("~/Spring 2021/Data Science - STAT 231/First-Repository/Labs/Unemployment.xls"), sheet = 1, skip = 7) %>%
+
+county_employment <- readxl::read_excel(paste0("~/Spring 2021/Data Science - STAT 231/course-content/data/Unemployment.xls")
+                                        , sheet = 1
+                                        , skip = 7) %>%
   janitor::clean_names()
 
-
+usa_counties <- map_data(map = "county", region = ".")
 
 county_employment <- county_employment %>% 
-  mutate(area_name = gsub(pattern = "County.*", replacement = "", x = area_name),
-         area_name = gsub(pattern = "Borough.*", replacement = "", x = area_name),
-         area_name = gsub(pattern = "Area.*", replacement = "", x = area_name),
-         area_name = gsub(pattern = "Municipality.*", replacement = "", x = area_name),
+  mutate(area_name = gsub(pattern = " County.*", replacement = "", x = area_name),
+         area_name = gsub(pattern = " Borough.*", replacement = "", x = area_name),
+         area_name = gsub(pattern = " Area.*", replacement = "", x = area_name),
+         area_name = gsub(pattern = " Municipality.*", replacement = "", x = area_name),
          area_name = str_to_lower(area_name))
 
+final_df <- usa_counties %>%
+  inner_join(county_employment, by = c("subregion" = "area_name"))
+
+ 
 ggplot(final_df, aes(x = long, y = lat, group = group, fill = unemployment_rate_2000)) +
   geom_polygon(colour = "white") +
   theme_void() +
-  coord_fixed(ratio = 1.3)
+  coord_fixed(ratio = 1.3) + scale_fill_viridis(option = "magma", direction = -1) 
 
-mass_county_df <- final_df %>% 
-  filter(region == "massachusetts")
-
-ggplot(mass_county_df, aes(x = long, y = lat, group = group, fill = unemployment_rate_2000)) +
-  geom_polygon(colour = "white") +
-  theme_void() +
-  scale_fill_viridis(option = "magma", direction = -1) +
-  coord_fixed(ratio = 1.3)
 
 
 ```
